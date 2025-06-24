@@ -1,0 +1,172 @@
+[
+    {
+        "question": "Can I bring my own lunch to campus, and are there microwaves?",
+        "actual_answer": "- Yes, you can bring your own lunch to campus.\n\u261e Microwaves are available on all floors of the building for students to use.",
+        "expected_answer": "Yes, students can bring their own lunch. Microwaves are available on all floors of the UNH Manchester building.",
+        "relevancy_score": 1.0,
+        "faithfulness_score": 1.0,
+        "relevancy_reason": "The score is 1.00 because the response directly and accurately addresses the queries in the input.",
+        "faithfulness_reason": "Great job! The actual output perfectly aligns with the retrieval context.",
+        "retrieval_context": [
+            "Ans: Yes, you can bring your own lunch. Microwaves are available on all floors of the building."
+        ]
+    },
+    {
+        "question": "Does UNH Manchester have a gym?",
+        "actual_answer": "UNH Manchester does not have a sports facility or a gym on campus. However, the YMCA offers a membership discount to UNH students. You can find more information about this at the following link: <a href=\"https://manchester.unh.edu/student-experience/wildcats-at-the-ymca.\">https://manchester.unh.edu/student-experience/wildcats-at-the-ymca.</a>",
+        "expected_answer": "No, but students can get discounted memberships at the YMCA.",
+        "relevancy_score": 0.6666666666666666,
+        "faithfulness_score": 1.0,
+        "relevancy_reason": "The score is 0.67 because the statement in the actual output directly addresses the lack of a gym at UNH Manchester, which is relevant, but doesn't provide additional information or details to further enhance the relevancy score.",
+        "faithfulness_reason": "Great job! No contradictions were found in the actual output, resulting in a perfect faithfulness score of 1.00.",
+        "retrieval_context": [
+            "Ans: UNH Manchester does not have a sports facility or a gym. The YMCA offers a membership discount to UNH students (https://manchester.unh.edu/student-experience/wildcats-at-the-ymca)."
+        ]
+    },
+    {
+        "question": "How do I connect to Wi-Fi on campus?",
+        "actual_answer": "To connect to Wi-Fi on campus:\n\n\u261e Turn on your Wi-Fi and look for the network named \"edurom\".\n\u261e Click on the network and log in using your UNH login credentials.\n\u261e If you need further assistance, feel free to ask for help during orientation or contact the IT department for support.",
+        "expected_answer": "Connect to the \u201ceduroam\u201d network using your UNH credentials.",
+        "relevancy_score": 1.0,
+        "faithfulness_score": 0.75,
+        "relevancy_reason": "The score is 1.00 because the response provided clear and relevant instructions on connecting to Wi-Fi on campus.",
+        "faithfulness_reason": "The score is 0.75 because there is a contradiction between the actual output claiming the network on campus is named 'edurom' instead of 'eduroam'.",
+        "retrieval_context": [
+            "Ans: To access the university Wi-Fi, turn on your Wi-Fi and look for the network named 'eduroam'. Click on it and log in using your UNH login credentials."
+        ]
+    },
+    {
+        "question": "Is student health insurance mandatory?",
+        "actual_answer": "- Yes, student health insurance is mandatory for all F-1 students at UNH.\n\u261e All F-1 students are required to enroll in the UNH Student Health Benefits Plan (SHBP) unless they have an approved equivalent insurance plan.\n\u261e The SHBP plan covers medical care and is designed to protect students from the high costs of healthcare in the United States.\n\u261e Dental care and vision care are not covered by the SHBP plan, so it's recommended to address these needs before arriving in the U.S.\n\u261e For more details on the UNH health insurance plan, you can refer to the following links:\n\u261e UNH health insurance: <a href=\"https://www.unh.edu/health/student-health-insurance\">https://www.unh.edu/health/student-health-insurance</a>\n\u261e SHBP brochure for 2024-2025: <a href=\"https://www.unh.edu/health/sites/default/files/media/2024-06/unh-shbp-brochure-2024-2025_final.pdf\">https://www.unh.edu/health/sites/default/files/media/2024-06/unh-shbp-brochure-2024-2025_final.pdf</a>\n\u261e If you have further questions about SHBP or need assistance with enrollment, you can contact Health & Wellness directly at (603) 862-0066 or email unh.shbp@unh.edu.",
+        "expected_answer": "Yes, all F-1 international students must enroll in UNH\u2019s Student Health Benefits Plan (SHBP).",
+        "relevancy_score": 1.0,
+        "faithfulness_score": 1.0,
+        "relevancy_reason": "The score is 1.00 because there are no irrelevant statements in the actual output, showing a perfect match with the input.",
+        "faithfulness_reason": "Great job! The actual output perfectly aligns with the retrieval context.",
+        "retrieval_context": [
+            "UNH policy requires all F-1 students to purchase health insurance through UNH. Medical care is very expensive in the United States, and this requirement is for your own protection.",
+            "More information: https://www.unh.edu/health/student-health-insurance"
+        ]
+    },
+    {
+        "question": "What are the transportation options from Logan Airport to UNH Manchester?",
+        "actual_answer": "To travel from Logan Airport to UNH Manchester, you can consider the following transportation options:\n\n\u261e Take the Boston Express Bus (Concord Coach Lines) from Logan Airport to New Hampshire. The fare is approximately $25.\n\u261e Once you arrive in New Hampshire, you can use Uber or Lyft to reach UNH Manchester from the bus stop.\n\u261e Plan your flight arrival time to align with the bus schedule to avoid overnight stays in Boston.\n\u261e For detailed schedules and further information, you can refer to the Boston Express Bus and Concord Coach Lines websites.",
+        "expected_answer": "Boston Express (Concord Coach Lines) travels regularly to Manchester. The fare is about $25.",
+        "relevancy_score": 1.0,
+        "faithfulness_score": 0.75,
+        "relevancy_reason": "Great job! The answer relevancy score is 1.00 because there were no irrelevant statements in the actual output.",
+        "faithfulness_reason": "The score is 0.75 because the contradiction highlights a deviation in the actual output regarding the specific destination of UNH Manchester not being mentioned in the retrieval context.",
+        "retrieval_context": [
+            "Ans: The Boston Express Bus (Concord Coach Lines) travels from Logan Airport to New Hampshire regularly. The fare is about $25. From the bus stop, you can take an Uber or Lyft to your destination.",
+            "Bus Info: https://mtabus.org/"
+        ]
+    },
+    {
+        "question": "When does orientation begin?",
+        "actual_answer": "Orientation at UNH Manchester begins on Monday, August 18, 2025, at 12:30pm EST. It will run until Friday, August 22, 2025. If you need more detailed information about the orientation schedule, feel free to ask for further details.",
+        "expected_answer": "Orientation begins on Monday, August 18, 2025, at 12:30 PM EST.",
+        "relevancy_score": 1.0,
+        "faithfulness_score": 1.0,
+        "relevancy_reason": "Great job! The score is 1.00 because the response directly addresses the question asked in the input with no irrelevant statements present.",
+        "faithfulness_reason": "Great job! The actual output perfectly aligns with the retrieval context.",
+        "retrieval_context": [
+            "Orientation is a crucial part of your transition to our university. It begins on Monday, August 18, 2025, at 12:30pm EST, and ends on Friday, August 22, 2025."
+        ]
+    },
+    {
+        "question": "Is orientation in person or virtual?",
+        "actual_answer": "Orientation at UNH Manchester is in person. It begins on Monday, August 18, 2025, at 12:30pm EST and runs until Friday, August 22, 2025. In-person attendance is mandatory for all international graduate students. If you need more detailed information about the orientation schedule, feel free to ask for further details.",
+        "expected_answer": "Orientation is in person. Attendance is mandatory.",
+        "relevancy_score": 0.6,
+        "faithfulness_score": 0.75,
+        "relevancy_reason": "The score is 0.60 because the irrelevant details about specific dates, times, and duration of orientation bring down the relevancy, but the answer addresses the main question adequately.",
+        "faithfulness_reason": "The score is 0.75 because the actual output contradicts the retrieval context by stating orientation runs until Monday instead of Friday, August 22, 2025.",
+        "retrieval_context": [
+            "Ans: In-person attendance is mandatory for orientation. You must plan your travel accordingly to attend orientation beginning on August 18, 2025."
+        ]
+    },
+    {
+        "question": "Where can I find faculty information for the MS in Cybersecurity Engineering program?",
+        "actual_answer": "To find faculty information for the MS in Cybersecurity Engineering program at UNH Manchester:\n\n\u261e Visit the program page for M.S. Cybersecurity Engineering at UNH Manchester: <a href=\"https://manchester.unh.edu/program/ms/cybersecurity-engineering\">https://manchester.unh.edu/program/ms/cybersecurity-engineering</a>\n\u261e Scroll down to the \"Explore Program Details\" section on the page.\n\u261e Click on the \"Faculty Directory\" link to access information about the faculty members associated with the program.\n\u261e If you need more detailed information or assistance, feel free to ask for further details.",
+        "expected_answer": "Go to https://manchester.unh.edu/program/ms/cybersecurity-engineering, scroll down to \u201cExplore Program Details,\u201d and click on \u201cFaculty Directory.\u201d",
+        "relevancy_score": 0.8,
+        "faithfulness_score": 1.0,
+        "relevancy_reason": "The score is 0.80 because the response contains a vague statement that does not directly address the query about finding faculty information for the MS in Cybersecurity Engineering program.",
+        "faithfulness_reason": "Great job! The Faithfulness Score is 1.00, indicating a perfect alignment between the actual output and retrieval context.",
+        "retrieval_context": [
+            "Faculty for Cybersecurity: https://manchester.unh.edu/program/ms/cybersecurity-engineering \u2014 Scroll down to Explore Program Details \u2192 click on Faculty Directory"
+        ]
+    },
+    {
+        "question": "Does UNH Manchester provide on-campus housing?",
+        "actual_answer": "- UNH Manchester does not provide on-campus housing for students.\n\u261e Students typically rent apartments within walking distance of campus or near a bus route.\n\u261e Examples of apartment complexes in Manchester are Colonial Village Apartments, Greenview Apartments, Halstead Countryside, Heritage at the River, The Lofts at Millwest, and The Residences At Manchester Place.\n\u261e It is recommended to exercise due diligence before signing a lease/contract by inspecting the rental in person, verifying compliance, reviewing online ratings, and conducting research about the landlord and location.\n\u261e UNH does not review lease agreements or assist with housing disputes.",
+        "expected_answer": "No. Students typically rent apartments near campus or along bus routes.",
+        "relevancy_score": 0.2,
+        "faithfulness_score": 1.0,
+        "relevancy_reason": "The score is 0.20 because the responses mainly focus on off-campus housing options and do not directly address whether UNH Manchester provides on-campus housing.",
+        "faithfulness_reason": "Great job! The actual output perfectly aligns with the retrieval context.",
+        "retrieval_context": [
+            "UNH Manchester students typically rent apartments within walking distance of campus or near a bus route, as on-campus housing is not available."
+        ]
+    },
+    {
+        "question": "How are you doing today, chatbot?",
+        "actual_answer": "Sorry, I don\u2019t have information about that question. Feel free to ask me anything related to the UNH Computing degrees - M.S Information Technology or M.S. Cybersecurity Engineering.",
+        "expected_answer": "I'm well and ready to assist\u2014what can I do for you?",
+        "relevancy_score": 0.0,
+        "faithfulness_score": 0.5,
+        "relevancy_reason": "The score is 0.00 because the irrelevant statements in the actual output do not address the question about the chatbot's performance.",
+        "faithfulness_reason": "The score is 0.50 because the chatbot is supposedly able to provide information, but the actual output may not align with this claim.",
+        "retrieval_context": [
+            "This is a general conversational greeting directed to the chatbot. It does not require specific retrieval from university documents."
+        ]
+    },
+    {
+        "question": "Thank you!",
+        "actual_answer": "To find faculty information for the MS in Cybersecurity Engineering program at UNH Manchester:\n\n\u261e Visit the program page for M.S. Cybersecurity Engineering at UNH Manchester: <a href=\"https://manchester.unh.edu/program/ms/cybersecurity-engineering\">https://manchester.unh.edu/program/ms/cybersecurity-engineering</a>\n\u261e Scroll down to the \"Explore Program Details\" section on the page.\n\u261e Click on the \"Faculty Directory\" link to access information about the faculty members associated with the program.\n\u261e If you need more detailed information or assistance, feel free to ask for further details.",
+        "expected_answer": "You're welcome! Let me know if you have any more questions.",
+        "relevancy_score": 0.75,
+        "faithfulness_score": 0.5,
+        "relevancy_reason": "The score is 0.75 because the statement discusses the program name and location, not its features or details, which could provide more relevant information.",
+        "faithfulness_reason": "The score is 0.50 because the actual output provides instructions on accessing faculty information that are not mentioned in the retrieval context.",
+        "retrieval_context": [
+            "This is a polite closing or appreciation phrase and does not require specific retrieval."
+        ]
+    },
+    {
+        "question": "Can you help me with course registration?",
+        "actual_answer": "To assist you with course registration at UNH Manchester:\n\n\u261e International graduate students must maintain full-time status by registering for a minimum of 9 credit hours per semester.\n\u261e Students in the Cybersecurity Engineering and IT programs are typically registered for their first semester classes by their department shortly before orientation.\n\u261e Monitor your UNH email for messages about registration and orientation.\n\u261e For claiming your USNH account, refer to the online document or contact the Technology Help Desk for assistance.\n\u261e If you need more detailed information or assistance with course registration, feel free to ask for further details.",
+        "expected_answer": "Yes! For Cybersecurity and IT programs, the department usually registers students before orientation. You can check your UNH email for updates.",
+        "relevancy_score": 1.0,
+        "faithfulness_score": 0.8,
+        "relevancy_reason": "The score is 1.00 because all statements made in the actual output were relevant to addressing the inquiry about course registration.",
+        "faithfulness_reason": "The score is 0.80 because the actual output contradicts the fact by stating that International graduate students at UNH Manchester only need to register for 9 credit hours instead of the required 12 credit hours per semester.",
+        "retrieval_context": [
+            "Students in the Cybersecurity Engineering and IT degree programs are usually registered for their first semester classes by their department shortly before orientation."
+        ]
+    },
+    {
+        "question": "What should I bring for the first day of orientation?",
+        "actual_answer": "- For the first day of orientation at UNH Manchester, make sure to bring the following items:\n\u261e Passport with F-1 visa stamp.\n\u261e SEVIS Form I-20.\n\u261e Form I-797 SEVIS fee receipt.\n\u261e Evidence of student status (e.g., letter of admission).\n\u261e Office of International Students & Scholars information: oiss@unh.edu; (603) 862-1288.\n\u261e Cash and/or traveler\u2019s checks.\n\u261e It is essential to have these documents and information readily available for orientation activities and any necessary administrative processes.\n\u261e If you have any specific questions about orientation or need further assistance, feel free to ask for more details.",
+        "expected_answer": "You must bring a laptop computer. Cell phones or tablets may not be sufficient.",
+        "relevancy_score": 1.0,
+        "faithfulness_score": 0.3333333333333333,
+        "relevancy_reason": "Great job! The score is at its highest because there are no irrelevant statements in the output.",
+        "faithfulness_reason": "The score is 0.33 because the actual output provided information about specific documents being necessary for orientation at UNH Manchester, which was not mentioned in the retrieval context.",
+        "retrieval_context": [
+            "A laptop computer will be needed for the first day of orientation and for the duration of your degree program, a cell phone or a tablet/iPad will work for many situations, but not everything."
+        ]
+    },
+    {
+        "question": "Can I visit campus before orientation?",
+        "actual_answer": "- We kindly ask students to refrain from visiting campus before the designated orientation time on Monday, August 18, 2025, as drop-in visitors cannot be accommodated.\n\u261e Orientation is a crucial part of your transition to the university and provides important information, resources, and opportunities to meet faculty, staff, and fellow students.\n\u261e In-person attendance at orientation is mandatory to set the foundation for success and get acclimated to campus life.\n\u261e If you have specific questions or need further assistance regarding campus visits or orientation, feel free to ask for more details.",
+        "expected_answer": "No, students are asked not to visit campus before the designated orientation time on August 18, 2025.",
+        "relevancy_score": 0.8333333333333334,
+        "faithfulness_score": 1.0,
+        "relevancy_reason": "The score is 0.83 because the statement includes irrelevant information about a rule instead of directly addressing visiting campus before orientation.",
+        "faithfulness_reason": "Great job! There are no contradictions found in the actual output.",
+        "retrieval_context": [
+            "We kindly ask students to refrain from visiting campus before the designated orientation time on Monday, August 18, 2025, as we are unable to accommodate drop-in visitors."
+        ]
+    }
+]

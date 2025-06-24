@@ -1,0 +1,822 @@
+[
+    {
+        "question": "What are the two options for completion in the M.S. Cybersecurity Engineering program?",
+        "answer": "The two options for completion in the M.S. Cybersecurity Engineering program are the Professional Option and the Thesis Option.",
+        "source": "Catalog.pdf"
+    },
+    {
+        "question": "How many credits are required for the Professional Option in the M.S. Cybersecurity Engineering program?",
+        "answer": "For the Professional Option, 27 credits of coursework and 6 credits of Culminating Experience with Master\u2019s Project and/or Internship are required, totaling 33 credits.",
+        "source": "Catalog.pdf"
+    },
+    {
+        "question": "What are the required core courses in the M.S. Cybersecurity Engineering program?",
+        "answer": "The required core courses in the M.S. Cybersecurity Engineering program include COMP 801 Integrated Computing Practice, COMP 815 Information Security, COMP 835 Secure Networking Technologies, COMP 855 Digital Forensics, COMP 865 Secure Software Principles, and COMP 885 Applied Cryptography.",
+        "source": "Catalog.pdf"
+    },
+    {
+        "question": "What are the options for the Culminating Experience in the M.S. Cybersecurity Engineering program?",
+        "answer": "For the Professional Option, students must complete two different courses from a list including COMP 891 Internship Experience, COMP 893 Team Project Internship, and COMP 898 Master\u2019s Project. For the Thesis Option, students must complete COMP 899 Master\u2019s Thesis.",
+        "source": "Catalog.pdf"
+    },
+    {
+        "question": "How many credits are required for the Thesis Option in the M.S. Cybersecurity Engineering program?",
+        "answer": "For the Thesis Option, 24 credits of coursework and 6 credits of Culminating Experience with Master's Thesis are required, totaling 30 credits.",
+        "source": "Catalog.pdf"
+    },
+    {
+        "question": "When is the break time on orientation day?",
+        "answer": "We take 10\u201315-minute breaks as needed during orientation.",
+        "source": "General _Questions.pdf"
+    },
+    {
+        "question": "Will the university provide lunch on orientation day?",
+        "answer": "Orientation typically begins after lunch each day; however, the university provides lunch on the second day of orientation due to an earlier start time. The orientation schedule will be provided the week before orientation.",
+        "source": "General _Questions.pdf"
+    },
+    {
+        "question": "Where can I find water stations or vending machines?",
+        "answer": "Water stations are available on every floor of the UNH Manchester building, free of cost, and can be identified by the 'Drinking Water' tag. Vending machines are located on the 3rd floor of the UNHM building.",
+        "source": "General _Questions.pdf"
+    },
+    {
+        "question": "Are there any fun activities planned for orientation?",
+        "answer": "Yes, all orientation sessions are fun!",
+        "source": "General _Questions.pdf"
+    },
+    {
+        "question": "Is there a campus map available?",
+        "answer": "UNH Manchester is a single 6-story urban campus building. Campus tours take place on the first day of orientation.",
+        "source": "General _Questions.pdf"
+    },
+    {
+        "question": "What emergency services are available on campus?",
+        "answer": "https://manchester.unh.edu/student-experience/campus-safety",
+        "source": "General _Questions.pdf"
+    },
+    {
+        "question": "How can I access the university Wi-Fi?",
+        "answer": "On the first day of orientation, we\u2019ll walk you through connecting to UNH technology, including Wi-Fi. To access the university Wi-Fi, turn on your Wi-Fi and look for the network named 'edurom'. Click on it and log in using your UNH login credentials.",
+        "source": "General _Questions.pdf"
+    },
+    {
+        "question": "Where can I find public transportation options near campus?",
+        "answer": "The university is situated in Manchester, NH, which offers various public transportation options. For details on routes and schedules, visit the local transit authority's website or consult the Office of International Student Success.",
+        "source": "General _Questions.pdf"
+    },
+    {
+        "question": "Does the university provide mental health support or counseling services?",
+        "answer": "Yes, UNH Manchester offers resources to support student wellness, including mental health services.",
+        "source": "General _Questions.pdf"
+    },
+    {
+        "question": "What's the weather like on the day of orientation?",
+        "answer": "I don't have real-time weather data. You can check a weather website or app for the latest forecast.",
+        "source": "question_ans.pdf"
+    },
+    {
+        "question": "Who is the mayor of Manchester, NH?",
+        "answer": "I'm not sure, but you can check the official Manchester city website for the latest information.",
+        "source": "question_ans.pdf"
+    },
+    {
+        "question": "Can you recommend a good pizza place near campus?",
+        "answer": "I don't have restaurant recommendations, but you can try searching online or using a food delivery app.",
+        "source": "question_ans.pdf"
+    },
+    {
+        "question": "What's the latest news in cybersecurity?",
+        "answer": "I don't have access to current news, but you can check cybersecurity news websites like Wired or KrebsOnSecurity.",
+        "source": "question_ans.pdf"
+    },
+    {
+        "question": "How do I apply for a driver's license in New Hampshire?",
+        "answer": "I'm not sure, but you can visit the New Hampshire DMV website for application details.",
+        "source": "question_ans.pdf"
+    },
+    {
+        "question": "What's the tuition cost for Harvard's MBA program?",
+        "answer": "I don't have that information. You can check Harvard's official website for tuition details.",
+        "source": "question_ans.pdf"
+    },
+    {
+        "question": "Who won the Super Bowl last year?",
+        "answer": "I don't have real-time sports data. You can check ESPN or a sports news website for the latest results.",
+        "source": "question_ans.pdf"
+    },
+    {
+        "question": "What movies are playing in Manchester this weekend?",
+        "answer": "I don't have access to movie listings. You can check local theater websites or apps like Fandango.",
+        "source": "question_ans.pdf"
+    },
+    {
+        "question": "What's the best way to learn Spanish quickly?",
+        "answer": "I can't provide language learning courses, but you can try apps like Duolingo or Rosetta Stone.",
+        "source": "question_ans.pdf"
+    },
+    {
+        "question": "How do I troubleshoot a slow Wi-Fi connection at home?",
+        "answer": "I don't have specific troubleshooting steps, but you can try restarting your router or checking your internet provider's support page.",
+        "source": "question_ans.pdf"
+    },
+    {
+        "question": "What are the internship options available for students?",
+        "answer": "There are two options: (1) If a student secures an external internship before their final semester, they can enroll in COMP 891 (Internship Experience). (2) If a student has not secured an external internship by their final semester, they must take COMP 893 (Team Project Internship) and COMP 898 (Master's Project).",
+        "source": "question_ans.pdf"
+    },
+    {
+        "question": "When is the August graduate orientation department session scheduled?",
+        "answer": "The session is scheduled with students from 1:30PM-3:00PM (1.5 hours), however, the calendar reservation is for 2 hours (15 minutes before and after).",
+        "source": "Updated_Orientation.pdf"
+    },
+    {
+        "question": "Which rooms have been reserved for the graduate orientation department session?",
+        "answer": "Room reservations have been made in 101, 126, and 128.",
+        "source": "Updated_Orientation.pdf"
+    },
+    {
+        "question": "Who is excluded from the graduate orientation department session?",
+        "answer": "Mike Jonas is excluded from the session as he will be on sabbatical.",
+        "source": "Updated_Orientation.pdf"
+    },
+    {
+        "question": "Where can students find information about the Student Health Benefits Plan?",
+        "answer": "Students can find information about the Student Health Benefits Plan in the 2024-2025 Student Health Benefits Plan brochure at https://www.unh.edu/health/sites/default/files/media/2024-06/unh-shbp-brochure-2024-2025_final.pdf",
+        "source": "Updated_Orientation.pdf"
+    },
+    {
+        "question": "Where can students find information about tuition fees?",
+        "answer": "Information about tuition fees can be found at https://www.unh.edu/business-services/tuition-fees/unh-manchester-graduate-school",
+        "source": "Updated_Orientation.pdf"
+    },
+    {
+        "question": "How can students find information about the faculty for the MS in Information Technology program?",
+        "answer": "To find information about the faculty for the MS in Information Technology program, students can visit https://manchester.unh.edu/program/ms/information-technology, scroll down to Explore Program Details, and click on Faculty directory.",
+        "source": "Updated_Orientation.pdf"
+    },
+    {
+        "question": "How can students find information about the faculty for the MS in Cybersecurity program?",
+        "answer": "To find information about the faculty for the MS in Cybersecurity program, students can visit https://manchester.unh.edu/program/ms/cybersecurity-engineering, scroll down to Explore Program Details, and click on Faculty directory.",
+        "source": "Updated_Orientation.pdf"
+    },
+    {
+        "question": "What is the purpose of the UNH New International Grad Student Guide 2025?",
+        "answer": "The guide is intended to address pre-arrival queries for new international graduate students joining UNH Manchester for the Fall 2025 semester.",
+        "source": "Updated_Orientation.pdf"
+    },
+    {
+        "question": "What are the internship options available for students?",
+        "answer": "There are two options: (1) If a student secures an external internship before their final semester, they can enroll in COMP 891 (Internship Experience). (2) If a student has not secured an external internship by their final semester, they must take COMP 893 (Team Project Internship) and COMP 898 (Master\u00e2\u20ac\u2122s Project).",
+        "source": "training"
+    },
+    {
+        "question": "Can I take COMP 891 in my final semester if I don\u00e2\u20ac\u2122t have an internship?",
+        "answer": "No. If you have not secured an internship before your final semester, you are NOT eligible for COMP 891. Instead, you must enroll in COMP 893 (Team Project Internship) and COMP 898 (Master\u00e2\u20ac\u2122s Project).",
+        "source": "training"
+    },
+    {
+        "question": "What happens if I don\u00e2\u20ac\u2122t get an internship before my final semester?",
+        "answer": "If you do not secure an external internship before your final semester, you MUST enroll in both COMP 893 (Team Project Internship) and COMP 898 (Master\u00e2\u20ac\u2122s Project) to meet your graduation requirements.",
+        "source": "training"
+    },
+    {
+        "question": "What is COMP 891?",
+        "answer": "COMP 891 is an external internship experience course where students work at an industry-based internship. Students must secure an internship BEFORE their final semester to be eligible for this course.",
+        "source": "training"
+    },
+    {
+        "question": "Who is eligible for COMP 891?",
+        "answer": "Only students who have secured an external internship BEFORE their final semester can enroll in COMP 891.",
+        "source": "training"
+    },
+    {
+        "question": "What happens if I don\u00e2\u20ac\u2122t secure an internship by my final semester?",
+        "answer": "If you do not secure an external internship by your final semester, you are NOT eligible for COMP 891. Instead, you must enroll in COMP 893 (Team Project Internship) and COMP 898 (Master\u00e2\u20ac\u2122s Project).",
+        "source": "training"
+    },
+    {
+        "question": "What is COMP 893?",
+        "answer": "COMP 893 (Team Project Internship) is a 3-credit course designed for students who have not secured an external internship. It provides structured project-based experience to fulfill the internship requirement.",
+        "source": "training"
+    },
+    {
+        "question": "Who should enroll in COMP 893?",
+        "answer": "Students who have NOT secured an external internship by their final semester must take COMP 893.",
+        "source": "training"
+    },
+    {
+        "question": "How many credits is COMP 893 worth?",
+        "answer": "COMP 893 is a 3-credit course.",
+        "source": "training"
+    },
+    {
+        "question": "Is COMP 893 required for students without an internship?",
+        "answer": "Yes, students without an external internship must take COMP 893 along with COMP 898.",
+        "source": "training"
+    },
+    {
+        "question": "What is COMP 898?",
+        "answer": "COMP 898 (Master\u00e2\u20ac\u2122s Project) is a course required for students who have not completed an external internship. It allows students to work on a substantial independent project to gain industry-level experience.",
+        "source": "training"
+    },
+    {
+        "question": "Who needs to take COMP 898?",
+        "answer": "Students who do not secure an internship before their final semester must take both COMP 893 and COMP 898 to fulfill the internship requirement.",
+        "source": "training"
+    },
+    {
+        "question": "Can I take COMP 898 without COMP 893?",
+        "answer": "No. COMP 898 must be taken alongside COMP 893 for students who do not have an external internship.",
+        "source": "training"
+    },
+    {
+        "question": "Can I take COMP 891 if I don\u00e2\u20ac\u2122t have an internship?",
+        "answer": "No. If you do not have an external internship, you are not eligible for COMP 891. You must enroll in COMP 893 and COMP 898 instead.",
+        "source": "training"
+    },
+    {
+        "question": "Can I switch from COMP 891 to COMP 893 if I lose my internship?",
+        "answer": "Yes, if you initially planned for COMP 891 but lost your internship before your final semester, you must enroll in COMP 893 and COMP 898 instead.",
+        "source": "training"
+    },
+    {
+        "question": "Can I take both COMP 891 and COMP 893?",
+        "answer": "No, you can only take one path. If you have an external internship, take COMP 891. If you don\u00e2\u20ac\u2122t, take COMP 893 and COMP 898.",
+        "source": "training"
+    },
+    {
+        "question": "What is the difference between COMP 891 and COMP 893?",
+        "answer": "COMP 891 is for students with an external internship, while COMP 893 is for final-semester students who did not secure an internship and need to complete a structured team project.",
+        "source": "training"
+    },
+    {
+        "question": "If I complete an external internship, do I still need to take COMP 893?",
+        "answer": "No, if you have completed an external internship under COMP 891, you do not need to take COMP 893.",
+        "source": "training"
+    },
+    {
+        "question": "Can international students take COMP 891 or COMP 893?",
+        "answer": "Yes, but international students must comply with CPT/OPT requirements and obtain approval before enrolling in an internship course.",
+        "source": "training"
+    },
+    {
+        "question": "What is the registration process for internship courses?",
+        "answer": "Students must secure approval from the faculty internship coordinator and register through the university registration system.",
+        "source": "training"
+    },
+    {
+        "question": "What is COMP 893?",
+        "answer": "COMP 898 (Team Project internship) is a course required for students who have not completed an external internship.",
+        "source": "training"
+    },
+    {
+        "question": "What is the total number of core courses required in the M.S. Cybersecurity Engineering program?",
+        "answer": "6 courses",
+        "source": "training"
+    },
+    {
+        "question": "How many total core courses are required in the M.S. Information Technology program?",
+        "answer": "5 courses (each category has one required course)",
+        "source": "training"
+    },
+    {
+        "question": "How many credits of coursework are required for the Professional Option in both M.S. programs?",
+        "answer": "27 credits",
+        "source": "training"
+    },
+    {
+        "question": "How many credits of coursework are required for the Thesis Option in both M.S. programs?",
+        "answer": "24 credits",
+        "source": "training"
+    },
+    {
+        "question": "Which course must all M.S. students take within their first nine credits?",
+        "answer": "COMP 801 Integrated Computing Practice 1",
+        "source": "training"
+    },
+    {
+        "question": "How many total elective credits must be taken in the Professional Option of the M.S. Cybersecurity Engineering program?",
+        "answer": "6 credits",
+        "source": "training"
+    },
+    {
+        "question": "How many total elective credits must be taken in the Thesis Option of the M.S. Cybersecurity Engineering program?",
+        "answer": "3 credits",
+        "source": "training"
+    },
+    {
+        "question": "How many total elective credits must be taken in the Professional Option of the M.S. Information Technology program?",
+        "answer": "9 credits",
+        "source": "training"
+    },
+    {
+        "question": "How many total elective credits must be taken in the Thesis Option of the M.S. Information Technology program?",
+        "answer": "6 credits",
+        "source": "training"
+    },
+    {
+        "question": "Can elective courses be taken from disciplines outside computing?",
+        "answer": "Yes, including computer science, business, analytics, and data science.",
+        "source": "training"
+    },
+    {
+        "question": "Which course focuses on secure software principles?",
+        "answer": "COMP 865 Secure Software Principles",
+        "source": "training"
+    },
+    {
+        "question": "Which course offers an introduction to system integration and architecture?",
+        "answer": "COMP 851 System Integration and Architecture",
+        "source": "training"
+    },
+    {
+        "question": "Which two courses cover big data and database technologies?",
+        "answer": "COMP 820 Database Systems and Technologies, COMP 821 Big Data for Data Engineers",
+        "source": "training"
+    },
+    {
+        "question": "Which two courses focus on Artificial Intelligence and Machine Learning?",
+        "answer": "COMP 840 Machine Learning Applications and Tools, COMP 841 Practical Artificial Intelligence",
+        "source": "training"
+    },
+    {
+        "question": "Which course is specifically focused on full-stack development?",
+        "answer": "COMP 805 Full Stack Development",
+        "source": "training"
+    },
+    {
+        "question": "What are the three course options for the Culminating Experience in the Professional Option?",
+        "answer": "COMP 891 Internship Experience, COMP 893 Team Project Internship, COMP 898 Master\u00e2\u20ac\u2122s Project",
+        "source": "training"
+    },
+    {
+        "question": "What is the total number of credits required for the Culminating Experience in the Professional Option?",
+        "answer": "6 credits",
+        "source": "training"
+    },
+    {
+        "question": "What is the only course available for the Culminating Experience in the Thesis Option?",
+        "answer": "COMP 899 Master\u00e2\u20ac\u2122s Thesis",
+        "source": "training"
+    },
+    {
+        "question": "How many credits is COMP 899 Master\u00e2\u20ac\u2122s Thesis?",
+        "answer": "6 credits",
+        "source": "training"
+    },
+    {
+        "question": "How many different courses must students take to complete the Professional Option Culminating Experience?",
+        "answer": "Two courses",
+        "source": "training"
+    },
+    {
+        "question": "Which course focuses on security policy fundamentals?",
+        "answer": "CPRM 810 Foundations of Cybersecurity Policy",
+        "source": "training"
+    },
+    {
+        "question": "Which two courses focus on security measures?",
+        "answer": "CPRM 830 Security Measures I, CPRM 850 Security Measures II",
+        "source": "training"
+    },
+    {
+        "question": "Which course provides an introduction to cybersecurity risk management?",
+        "answer": "CPRM 870 Cybersecurity Risk Management",
+        "source": "training"
+    },
+    {
+        "question": "Which course provides insights into cybersecurity metrics?",
+        "answer": "CPRM 880 Cybersecurity Metrics and Evaluation",
+        "source": "training"
+    },
+    {
+        "question": "Which course introduces students to applied cryptography?",
+        "answer": "COMP 885 Applied Cryptography",
+        "source": "training"
+    },
+    {
+        "question": "Which course must Information Technology students take under the Development category?",
+        "answer": "Either COMP 805 Full Stack Development or COMP 830 Software Development",
+        "source": "training"
+    },
+    {
+        "question": "Which course must Information Technology students take under the Data category?",
+        "answer": "Either COMP 820 Database Systems and Technologies or COMP 821 Big Data for Data Engineers",
+        "source": "training"
+    },
+    {
+        "question": "Which course must Information Technology students take under the Security category?",
+        "answer": "Either COMP 815 Information Security or COMP 885 Applied Cryptography",
+        "source": "training"
+    },
+    {
+        "question": "Which course is focused on secure networking technologies?",
+        "answer": "COMP 835 Secure Networking Technologies",
+        "source": "training"
+    },
+    {
+        "question": "Which course is an alternative to COMP 835 Secure Networking Technologies in the IT program?",
+        "answer": "COMP 851 System Integration and Architecture",
+        "source": "training"
+    },
+    {
+        "question": "When does the International Graduate Orientation begin?",
+        "answer": "The orientation begins on Monday, August 18, 2025.",
+        "source": "training"
+    },
+    {
+        "question": "Is in-person attendance mandatory for the orientation?",
+        "answer": "Yes, all students must attend in person.",
+        "source": "training"
+    },
+    {
+        "question": "What device is required for orientation and coursework?",
+        "answer": "A laptop computer is required.",
+        "source": "training"
+    },
+    {
+        "question": "Where should students direct their immunization-related questions?",
+        "answer": "Students should email Health & Wellness at health@unh.edu.",
+        "source": "training"
+    },
+    {
+        "question": "What is the contact email for OISS (Office of International Students and Scholars)?",
+        "answer": "The contact email is oiss@unh.edu.",
+        "source": "training"
+    },
+    {
+        "question": "What is the minimum RAM requirement for a laptop at UNH?",
+        "answer": "The minimum RAM requirement is 8GB.",
+        "source": "training"
+    },
+    {
+        "question": "What is the recommended RAM for a laptop at UNH?",
+        "answer": "The recommended RAM is 16GB.",
+        "source": "training"
+    },
+    {
+        "question": "What is the minimum required processor for a laptop at UNH?",
+        "answer": "An Intel Core i5 processor.",
+        "source": "training"
+    },
+    {
+        "question": "What is the recommended processor for a laptop at UNH?",
+        "answer": "An Intel Core i7 processor or Apple M1.",
+        "source": "training"
+    },
+    {
+        "question": "What email platform do UNH students use?",
+        "answer": "UNH students use Microsoft 365 for email.",
+        "source": "training"
+    },
+    {
+        "question": "What is the minimum software requirement for Windows laptops?",
+        "answer": "Windows 10 is the minimum requirement.",
+        "source": "training"
+    },
+    {
+        "question": "What is the minimum software requirement for Mac laptops?",
+        "answer": "macOS 12 (Monterey) is the minimum requirement.",
+        "source": "training"
+    },
+    {
+        "question": "When should students arrive in New Hampshire before orientation?",
+        "answer": "Students should arrive a few days before orientation.",
+        "source": "training"
+    },
+    {
+        "question": "Are physical exams required for graduate students?",
+        "answer": "No, physical exams are not required.",
+        "source": "training"
+    },
+    {
+        "question": "What is the required tuberculosis test for international students?",
+        "answer": "Students must have TB testing done before arrival.",
+        "source": "training"
+    },
+    {
+        "question": "What is the contact number for Student Accounts?",
+        "answer": "The contact number is (603) 641-4137.",
+        "source": "training"
+    },
+    {
+        "question": "How can students view their tuition bill?",
+        "answer": "They can log into WebCat and select 'View Your Account/Pay Bill.'",
+        "source": "training"
+    },
+    {
+        "question": "Are late fees charged for unpaid tuition balances?",
+        "answer": "Yes, a late fee of 2% of billed charges or $100, whichever is lower, is charged monthly.",
+        "source": "training"
+    },
+    {
+        "question": "What is the tuition bill due date for fall semester?",
+        "answer": "Fall tuition bills post on August 10th and are due September 1st.",
+        "source": "training"
+    },
+    {
+        "question": "How can students avoid a lapse in prescribed medication?",
+        "answer": "They should bring their prescription information and original container.",
+        "source": "training"
+    },
+    {
+        "question": "Is dental and vision care covered by UNH Student Health Benefits Plan (SHBP)?",
+        "answer": "No, dental and vision care are not covered.",
+        "source": "training"
+    },
+    {
+        "question": "How can students get from Logan International Airport to UNH?",
+        "answer": "Students can take the Boston Express or Concord Coach bus.",
+        "source": "training"
+    },
+    {
+        "question": "What is the cost of the bus from Logan International Airport to New Hampshire?",
+        "answer": "The fare is approximately $25.00.",
+        "source": "training"
+    },
+    {
+        "question": "What should students carry in their carry-on bag when traveling?",
+        "answer": "Passport, F-1 visa, SEVIS Form I-20, admission letter, OISS contact details, and some cash.",
+        "source": "training"
+    },
+    {
+        "question": "What is a security deposit in a rental agreement?",
+        "answer": "A security deposit is a payment made to the landlord to cover damages or unpaid rent.",
+        "source": "training"
+    },
+    {
+        "question": "What is a co-signer or guarantor in rental agreements?",
+        "answer": "A person who agrees to be legally responsible for rent payments if the tenant cannot pay.",
+        "source": "training"
+    },
+    {
+        "question": "What is the email for student billing inquiries?",
+        "answer": "Student.Accounts@unh.edu.",
+        "source": "training"
+    },
+    {
+        "question": "What should students do before signing a lease?",
+        "answer": "Read the lease thoroughly, verify terms, and inspect the rental.",
+        "source": "training"
+    },
+    {
+        "question": "What is renters\u2019 insurance?",
+        "answer": "Insurance that protects tenants from financial loss due to damage or theft.",
+        "source": "training"
+    },
+    {
+        "question": "How should students adjust to a new environment?",
+        "answer": "Explore surroundings, join student groups, and stay organized.",
+        "source": "training"
+    },
+    {
+        "question": "What is the recommended way to pay tuition at UNH?",
+        "answer": "Online via WebCat using electronic payment methods.",
+        "source": "training"
+    },
+    {
+        "question": "What is the deadline for spring semester tuition bills?",
+        "answer": "Spring tuition bills post on January 10th and are due February 1st.",
+        "source": "training"
+    },
+    {
+        "question": "What are the required immunizations for students?",
+        "answer": "MMR, Meningococcal, Tdap, and Varicella.",
+        "source": "training"
+    },
+    {
+        "question": "How can students find housing in Manchester?",
+        "answer": "By using rental websites like Zillow, Apartments.com, and Craigslist.",
+        "source": "training"
+    },
+    {
+        "question": "What should students do if they suspect a rental scam?",
+        "answer": "Avoid sending money and verify the landlord\u2019s identity.",
+        "source": "training"
+    },
+    {
+        "question": "What is the emergency contact number for UNH security?",
+        "answer": "(603) 641-4101.",
+        "source": "training"
+    },
+    {
+        "question": "What should students do if they need health services?",
+        "answer": "Contact Health & Wellness at (603) 862-0066.",
+        "source": "training"
+    },
+    {
+        "question": "How do students enroll in the UNH health insurance plan?",
+        "answer": "Enrollment takes place during orientation.",
+        "source": "training"
+    },
+    {
+        "question": "What public transportation options are available in Manchester?",
+        "answer": "Buses and ride services like Uber and Lyft.",
+        "source": "training"
+    },
+    {
+        "question": "How can students get involved in campus life?",
+        "answer": "By joining student organizations.",
+        "source": "training"
+    },
+    {
+        "question": "What is the process for applying for Optional Practical Training (OPT)?",
+        "answer": "Attend an OPT workshop and submit an application to USCIS.",
+        "source": "training"
+    },
+    {
+        "question": "How many credit hours must international graduate students maintain?",
+        "answer": "A minimum of 9 credit hours per semester.",
+        "source": "training"
+    },
+    {
+        "question": "How can students schedule an academic advising appointment?",
+        "answer": "Through their academic department.",
+        "source": "training"
+    },
+    {
+        "question": "Where can students get help with writing and research?",
+        "answer": "The UNH Writing Center and Library Research Services.",
+        "source": "training"
+    },
+    {
+        "question": "What is the maximum number of hours international students can work on campus?",
+        "answer": "Up to 20 hours per week during the semester.",
+        "source": "training"
+    },
+    {
+        "question": "How can students apply for a Social Security Number (SSN)?",
+        "answer": "Obtain a job offer letter and apply through the Social Security Administration.",
+        "source": "training"
+    },
+    {
+        "question": "How do students access UNH\u2019s online library resources?",
+        "answer": "Through the UNH Library website.",
+        "source": "training"
+    },
+    {
+        "question": "What should students do if they lose their UNH ID card?",
+        "answer": "Report it to the ID Office and request a replacement.",
+        "source": "training"
+    },
+    {
+        "question": "How do students sign up for UNH emergency alerts?",
+        "answer": "Through the UNH alert notification system.",
+        "source": "training"
+    },
+    {
+        "question": "How can students find roommates for off-campus housing?",
+        "answer": "Through UNH housing resources and student groups.",
+        "source": "training"
+    },
+    {
+        "question": "What is the process for renewing a visa while studying in the U.S.?",
+        "answer": "Students should check their visa expiration date and apply for renewal at a U.S. embassy or consulate in their home country.",
+        "source": "training"
+    },
+    {
+        "question": "How can students request a leave of absence from their program?",
+        "answer": "They must consult with their academic advisor and submit a formal request to the graduate school.",
+        "source": "training"
+    },
+    {
+        "question": "What is the minimum GPA requirement for graduate students at UNH?",
+        "answer": "Graduate students must maintain a minimum GPA of 3.0.",
+        "source": "training"
+    },
+    {
+        "question": "How can students find internship opportunities?",
+        "answer": "By contacting Career Services, attending job fairs, and networking with faculty and alumni.",
+        "source": "training"
+    },
+    {
+        "question": "What are the UNH policies on academic integrity and plagiarism?",
+        "answer": "Plagiarism and academic dishonesty are prohibited and can result in disciplinary action.",
+        "source": "training"
+    },
+    {
+        "question": "Where can students access mental health resources on campus?",
+        "answer": "UNH Health & Wellness provides counseling services and mental health support.",
+        "source": "training"
+    },
+    {
+        "question": "What should students do if they need disability accommodations?",
+        "answer": "They should contact the Student Accessibility Services office to request accommodations.",
+        "source": "training"
+    },
+    {
+        "question": "How do students register for workshops and training sessions at UNH?",
+        "answer": "They can register through the UNH events portal or their academic department.",
+        "source": "training"
+    },
+    {
+        "question": "What is the procedure for changing a major or program of study?",
+        "answer": "Students must speak with their academic advisor and submit a formal request for program change.",
+        "source": "training"
+    },
+    {
+        "question": "What steps should students take if they need to withdraw from a course?",
+        "answer": "They must submit a withdrawal request through WebCat before the deadline.",
+        "source": "training"
+    },
+    {
+        "question": "How do students apply for Curricular Practical Training (CPT)?",
+        "answer": "They need approval from their academic department and must apply through OISS.",
+        "source": "training"
+    },
+    {
+        "question": "What student discounts are available in Manchester?",
+        "answer": "Many local businesses offer discounts with a valid student ID, including restaurants and public transportation.",
+        "source": "training"
+    },
+    {
+        "question": "Where can students find part-time job listings on campus?",
+        "answer": "Job postings can be found on the UNH job portal and campus bulletin boards.",
+        "source": "training"
+    },
+    {
+        "question": "How can students participate in research projects at UNH?",
+        "answer": "By reaching out to professors, checking departmental research opportunities, and applying for research assistant positions.",
+        "source": "training"
+    },
+    {
+        "question": "What is the process for obtaining a driver's license in New Hampshire?",
+        "answer": "International students must provide their I-20, passport, visa, and proof of residency to apply at the DMV.",
+        "source": "training"
+    },
+    {
+        "question": "How can students apply for scholarships and financial aid?",
+        "answer": "They should check the UNH financial aid office website and apply for relevant scholarships.",
+        "source": "training"
+    },
+    {
+        "question": "What is the emergency response procedure on campus?",
+        "answer": "In case of emergency, students should call UNH Security at (603) 641-4101 or 911.",
+        "source": "training"
+    },
+    {
+        "question": "How do students obtain a student parking permit?",
+        "answer": "They must apply through the UNH transportation office and pay the required fee.",
+        "source": "training"
+    },
+    {
+        "question": "What should students do if they experience housing issues?",
+        "answer": "They can seek assistance from UNH housing resources or legal aid for tenant rights.",
+        "source": "training"
+    },
+    {
+        "question": "How can students join student government at UNH?",
+        "answer": "They can attend meetings, participate in elections, and volunteer for leadership positions.",
+        "source": "training"
+    },
+    {
+        "question": "What's the weather like on the day of orientation?",
+        "answer": "I don't have real-time weather data. You can check a weather website or app for the latest forecast.",
+        "source": "training"
+    },
+    {
+        "question": "Who is the mayor of Manchester, NH?",
+        "answer": "I'm not sure, but you can check the official Manchester city website for the latest information.",
+        "source": "training"
+    },
+    {
+        "question": "Can you recommend a good pizza place near campus?",
+        "answer": "I don't have restaurant recommendations, but you can try searching online or using a food delivery app.",
+        "source": "training"
+    },
+    {
+        "question": "What\u00e2\u20ac\u2122s the latest news in cybersecurity?",
+        "answer": "I don't have access to current news, but you can check cybersecurity news websites like Wired or KrebsOnSecurity.",
+        "source": "training"
+    },
+    {
+        "question": "How do I apply for a driver's license in New Hampshire?",
+        "answer": "I'm not sure, but you can visit the New Hampshire DMV website for application details.",
+        "source": "training"
+    },
+    {
+        "question": "What\u00e2\u20ac\u2122s the tuition cost for Harvard\u00e2\u20ac\u2122s MBA program?",
+        "answer": "I don\u00e2\u20ac\u2122t have that information. You can check Harvard\u00e2\u20ac\u2122s official website for tuition details.",
+        "source": "training"
+    },
+    {
+        "question": "Who won the Super Bowl last year?",
+        "answer": "I don\u00e2\u20ac\u2122t have real-time sports data. You can check ESPN or a sports news website for the latest results.",
+        "source": "training"
+    },
+    {
+        "question": "What movies are playing in Manchester this weekend?",
+        "answer": "I don't have access to movie listings. You can check local theater websites or apps like Fandango.",
+        "source": "training"
+    },
+    {
+        "question": "What\u00e2\u20ac\u2122s the best way to learn Spanish quickly?",
+        "answer": "I can't provide language learning courses, but you can try apps like Duolingo or Rosetta Stone.",
+        "source": "training"
+    },
+    {
+        "question": "How do I troubleshoot a slow Wi-Fi connection at home?",
+        "answer": "I don't have specific troubleshooting steps, but you can try restarting your router or checking your internet provider\u00e2\u20ac\u2122s support page.",
+        "source": "training"
+    }
+]

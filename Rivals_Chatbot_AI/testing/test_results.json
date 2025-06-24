@@ -1,0 +1,1150 @@
+[
+    {
+        "question": "What are the two options for completion in the M.S. Cybersecurity Engineering program?",
+        "expected_answer": "The two options for completion in the M.S. Cybersecurity Engineering program are the Professional Option and the Thesis Option.",
+        "actual_answer": "Cybersecurity Engineering program? A: 6 credits",
+        "similarity_score": 0.8431763353276898,
+        "is_correct": true
+    },
+    {
+        "question": "How many credits are required for the Professional Option in the M.S. Cybersecurity Engineering program?",
+        "expected_answer": "For the Professional Option, 27 credits of coursework and 6 credits of Culminating Experience with Master\u2019s Project and/or Internship are required, totaling 33 credits.",
+        "actual_answer": "COMP 899 Master's Thesis",
+        "similarity_score": 0.7928727982434971,
+        "is_correct": false
+    },
+    {
+        "question": "What are the required core courses in the M.S. Cybersecurity Engineering program?",
+        "expected_answer": "The required core courses in the M.S. Cybersecurity Engineering program include COMP 801 Integrated Computing Practice, COMP 815 Information Security, COMP 835 Secure Networking Technologies, COMP 855 Digital Forensics, COMP 865 Secure Software Principles, and COMP 885 Applied Cryptography.",
+        "actual_answer": "COMP 899 Master's Thesis",
+        "similarity_score": 0.8146979799973282,
+        "is_correct": true
+    },
+    {
+        "question": "What are the options for the Culminating Experience in the M.S. Cybersecurity Engineering program?",
+        "expected_answer": "For the Professional Option, students must complete two different courses from a list including COMP 891 Internship Experience, COMP 893 Team Project Internship, and COMP 898 Master\u2019s Project. For the Thesis Option, students must complete COMP 899 Master\u2019s Thesis.",
+        "actual_answer": "COMP 899 Master's Thesis",
+        "similarity_score": 0.8853729174744654,
+        "is_correct": true
+    },
+    {
+        "question": "How many credits are required for the Thesis Option in the M.S. Cybersecurity Engineering program?",
+        "expected_answer": "For the Thesis Option, 24 credits of coursework and 6 credits of Culminating Experience with Master's Thesis are required, totaling 30 credits.",
+        "actual_answer": "Thesis Option in the M.S. Cybersecurity Engineering program requires a total of 30 credits, with 24 credits of coursework and 6 credits of Culminating Experience with a Master's Thesis.",
+        "similarity_score": 0.9336300291992774,
+        "is_correct": true
+    },
+    {
+        "question": "When is the break time on orientation day?",
+        "expected_answer": "We take 10\u201315-minute breaks as needed during orientation.",
+        "actual_answer": "\n7. Important medications.\n8. Contact information for emergency contacts.\n9. Power adapter for electronic devices.\n10. Snacks and water for the journey.\n11. A change of clothes in case of lost luggage.\n12. Any necessary travel documents or itineraries.\n13. A book or entertainment for the flight.\n14. Travel-sized toiletries.\n15. Any necessary chargers for electronic devices.\n16. A pen and notebook for jotting down important information.\n17. A copy of your health insurance information.\n18. Any necessary school documents or paperwork.\n19. A small first aid kit.\n20. A travel pillow or blanket for comfort during the journey.",
+        "similarity_score": 0.7693865895051588,
+        "is_correct": false
+    },
+    {
+        "question": "Will the university provide lunch on orientation day?",
+        "expected_answer": "Orientation typically begins after lunch each day; however, the university provides lunch on the second day of orientation due to an earlier start time. The orientation schedule will be provided the week before orientation.",
+        "actual_answer": "\nQ: What is the recommended software for Windows laptops at UNH? A: The recommended software includes Microsoft Office 365 and antivirus software.\nQ: Is there a specific email address for questions related to student health insurance? A: Yes, students can email health@unh.edu for questions related to student health insurance.\nQ: Are there any specific requirements for tuberculosis immunization at UNH? A: Yes, tuberculosis immunization is a required immunization for all students at UNH.\nQ: Can students use private insurance instead of the UNH Student Health Benefits Plan? A: F-1 students are required to enroll in the SHBP unless they have an approved equivalent insurance plan.\nQ: Are there any scholarships available for international students at UNH? A: Yes, there are scholarships available for international students at UNH. Students can inquire with the Financial Aid office for more information.\nQ: What is the contact information for the Office of International Students and Scholars at UNH? A: The contact email for OISS is oiss@unh.edu and the phone number is (603) 862-1288.\nQ: Where can students find information about faculty for the Information Technology program at UNH? A: Students can visit the program website and click on the Faculty Directory to find information about faculty for the Information Technology program.\nQ: Is there a gym or sports facility available for students at UNH Manchester? A: UNH Manchester does not have a sports facility or gym, but students can access a discounted membership at the YMCA.\nQ: Can students bring their own lunch to campus? A: Yes, students can bring their own lunch to campus, and there are microwaves available on all floors of the building for student use.\nQ: Are there any fun activities planned for orientation at UNH Manchester? A: Yes, all orientation sessions are designed to be engaging and informative for students.\nQ: Will the university provide lunch on orientation day? A: Orientation typically begins after lunch each day, but lunch is provided on the second day of orientation due to an earlier start time.",
+        "similarity_score": 0.7819340421969381,
+        "is_correct": false
+    },
+    {
+        "question": "Where can I find water stations or vending machines?",
+        "expected_answer": "Water stations are available on every floor of the UNH Manchester building, free of cost, and can be identified by the 'Drinking Water' tag. Vending machines are located on the 3rd floor of the UNHM building.",
+        "actual_answer": "\nQ: Are there any opportunities for students to study abroad at UNH Manchester? A: Yes, UNH Manchester offers study abroad programs through the main UNH campus. Students can inquire with the Office of International Programs for more information.\nQ: How can students access mental health resources on campus? A: UNH Manchester offers counseling services through the Wellness Center. Students can schedule appointments or seek assistance through the Student Affairs office.\nQ: Is there a career services center on campus to help students with job placement? A: Yes, UNH Manchester has a Career and Professional Success office that offers career counseling, resume assistance, and job placement resources for students.\nQ: Are there any internship opportunities available for students at UNH Manchester? A: Yes, students can explore internship opportunities through the Career and Professional Success office, departmental resources, or by networking with faculty and professionals in their field of interest.",
+        "similarity_score": 0.8271996739140745,
+        "is_correct": true
+    },
+    {
+        "question": "Are there any fun activities planned for orientation?",
+        "expected_answer": "Yes, all orientation sessions are fun!",
+        "actual_answer": "\nQ: Are there any fun activities planned for orientation?\nAns: Yes, all orientation sessions are fun! Orientation typically includes icebreaker activities, campus tours, social events, and opportunities to meet fellow students and faculty. It's a great way to start your academic journey on a positive note.",
+        "similarity_score": 0.8779425963434917,
+        "is_correct": true
+    },
+    {
+        "question": "Is there a campus map available?",
+        "expected_answer": "UNH Manchester is a single 6-story urban campus building. Campus tours take place on the first day of orientation.",
+        "actual_answer": " troubleshooting steps, but you can try restarting your router, moving closer to the router, or contacting your internet service provider for assistance.",
+        "similarity_score": 0.6646337166671382,
+        "is_correct": false
+    },
+    {
+        "question": "What emergency services are available on campus?",
+        "expected_answer": "https://manchester.unh.edu/student-experience/campus-safety",
+        "actual_answer": "Varicella.",
+        "similarity_score": 0.7127666995562775,
+        "is_correct": false
+    },
+    {
+        "question": "How can I access the university Wi-Fi?",
+        "expected_answer": "On the first day of orientation, we\u2019ll walk you through connecting to UNH technology, including Wi-Fi. To access the university Wi-Fi, turn on your Wi-Fi and look for the network named 'edurom'. Click on it and log in using your UNH login credentials.",
+        "actual_answer": "\n27. How can I get involved in community service or volunteer opportunities?\nAns: The Office of Student Involvement and Leadership offers information on community service and\nvolunteer opportunities. You can also check with local organizations for opportunities.\n28. Are there any cultural events or festivals on campus?\nAns: UNH Manchester hosts various cultural events and festivals throughout the year. Keep an eye out\nfor announcements and flyers around campus.\n29. How can I access library resources for research and studying?\nAns: The library at UNH Manchester offers a wide range of resources for research and studying. You can\nvisit the library in person or access online resources through the library website.\n30. What sports facilities are available on campus for students?\nAns: UNH Manchester does not have on-campus sports facilities, but students can access the athletic\nfacilities at the main UNH campus in Durham with a valid student ID.\n31. How can I get involved in student government or leadership roles?\nAns: The Student Government Association at UNH Manchester offers opportunities for students to get\ninvolved in leadership roles. You can reach out to the SGA for more information on how to participate.\n32. Are there any study abroad programs available for students?\nAns: UNH Manchester offers study abroad programs through the main UNH campus in Durham. You can\ncontact the Study Abroad Office for more information on available programs.\n33. How can I access career services and job placement assistance?\nAns: The Career and Professional Success office at UNH Manchester offers career services and job\nplacement assistance to students. You can schedule an appointment with a career advisor for guidance\nand support.\n34. What resources are available for LGBTQ+ students on campus?\nAns: UNH Manchester has a LGBTQ+ Resource Center that provides support and resources for LGBTQ+\nstudents. You can reach out to the center for information on events and services.\n35. How can I report a safety concern or security issue on campus?\nAns: If you have a safety concern or security issue on campus, you can contact the Campus Safety office\nor the university administration for assistance. It is important to report any concerns promptly for\nresolution.",
+        "similarity_score": 0.7939507277461558,
+        "is_correct": false
+    },
+    {
+        "question": "Where can I find public transportation options near campus?",
+        "expected_answer": "The university is situated in Manchester, NH, which offers various public transportation options. For details on routes and schedules, visit the local transit authority's website or consult the Office of International Student Success.",
+        "actual_answer": "\nQ: Where can students find information about public transportation options near campus, including Wi-Fi availability? \nA: Students can visit the local transit authority's website or consult the Office of International Student Success for details on public transportation options near campus, including Wi-Fi availability.",
+        "similarity_score": 0.858690783495263,
+        "is_correct": true
+    },
+    {
+        "question": "Does the university provide mental health support or counseling services?",
+        "expected_answer": "Yes, UNH Manchester offers resources to support student wellness, including mental health services.",
+        "actual_answer": "C&J bus service from Logan International Airport to UNH Manchester.",
+        "similarity_score": 0.8206575856154981,
+        "is_correct": true
+    },
+    {
+        "question": "What's the weather like on the day of orientation?",
+        "expected_answer": "I don't have real-time weather data. You can check a weather website or app for the latest forecast.",
+        "actual_answer": "Q: What is the recommended software for Windows laptops at UNH? A: The recommended software for Windows laptops is Microsoft Office 365.\nQ: Are there any specific software requirements for Mac laptops at UNH? A: Mac laptops should have the latest version of macOS and Microsoft Office 365.\nQ: Can students use tablets or iPads for orientation and coursework? A: While tablets or iPads may work for some situations, a laptop computer is required for orientation and coursework.\nQ: Is there a specific course focused on information security in the IT program? A: Yes, COMP 815 Information Security is focused on information security.\nQ: What is the alternative course to COMP 815 Information Security in the IT program? A: COMP 885 Applied Cryptography is an alternative course to COMP 815 Information Security.\nQ: What course in the IT program is focused on secure networking technologies? A: COMP 835 Secure Networking Technologies is the course focused on secure networking technologies.\nQ: When does the International Graduate Orientation begin? A: The orientation begins on Monday, August 18, 2025.\nQ: Is in-person attendance mandatory for the orientation? A: Yes, all students must attend in person.\nQ: What device is required for orientation and coursework? A: A laptop computer is required.\nQ: Where should students direct their immunization-related questions? A: Students should email Health & Wellness at health@unh.edu.\nQ: What is the contact email for OISS (Office of International Students and Scholars)? A: The contact email is oiss@unh.edu.",
+        "similarity_score": 0.7053325367112853,
+        "is_correct": false
+    },
+    {
+        "question": "Who is the mayor of Manchester, NH?",
+        "expected_answer": "I'm not sure, but you can check the official Manchester city website for the latest information.",
+        "actual_answer": "I'm not sure, but you can check the official Manchester city website for the latest information.",
+        "similarity_score": 1.0000000000000002,
+        "is_correct": true
+    },
+    {
+        "question": "Can you recommend a good pizza place near campus?",
+        "expected_answer": "I don't have restaurant recommendations, but you can try searching online or using a food delivery app.",
+        "actual_answer": " it and log in using your UNH login credentials.",
+        "similarity_score": 0.6849344836407366,
+        "is_correct": false
+    },
+    {
+        "question": "What's the latest news in cybersecurity?",
+        "expected_answer": "I don't have access to current news, but you can check cybersecurity news websites like Wired or KrebsOnSecurity.",
+        "actual_answer": "The latest news in cybersecurity is the announcement of the M.S. in Cybersecurity Engineering program at UNH Manchester, which offers two options for completion - Professional Option and Thesis Option. The program includes required core courses such as Information Security, Secure Networking Technologies, Digital Forensics, Secure Software Principles, and Applied Cryptography. Students can also choose elective courses and complete a culminating experience with either a Master's Project and/or Internship or a Master's Thesis. The program aims to provide students with the necessary skills and knowledge to succeed in the field of cybersecurity.",
+        "similarity_score": 0.780229493909649,
+        "is_correct": false
+    },
+    {
+        "question": "How do I apply for a driver's license in New Hampshire?",
+        "expected_answer": "I'm not sure, but you can visit the New Hampshire DMV website for application details.",
+        "actual_answer": "To apply for a driver's license in New Hampshire, international students must provide their I-20, passport, visa, and proof of residency to apply at the DMV. It is important to have all the necessary documentation ready before visiting the DMV to ensure a smooth application process. Additionally, it is recommended to check the New Hampshire DMV website for any specific requirements or additional information related to obtaining a driver's license in the state.",
+        "similarity_score": 0.8544808197323777,
+        "is_correct": true
+    },
+    {
+        "question": "What's the tuition cost for Harvard's MBA program?",
+        "expected_answer": "I don't have that information. You can check Harvard's official website for tuition details.",
+        "actual_answer": "The tuition cost for Harvard's MBA program is approximately $73,440 per year for the 2021-2022 academic year.",
+        "similarity_score": 0.821855853258393,
+        "is_correct": true
+    },
+    {
+        "question": "Who won the Super Bowl last year?",
+        "expected_answer": "I don't have real-time sports data. You can check ESPN or a sports news website for the latest results.",
+        "actual_answer": "The Tampa Bay Buccaneers won the Super Bowl last year.",
+        "similarity_score": 0.7292303585475522,
+        "is_correct": false
+    },
+    {
+        "question": "What movies are playing in Manchester this weekend?",
+        "expected_answer": "I don't have access to movie listings. You can check local theater websites or apps like Fandango.",
+        "actual_answer": "I'm sorry, I do not have real-time information on movie listings in Manchester. You can check local theater websites or apps like Fandango for the latest movie showtimes.",
+        "similarity_score": 0.9227177307361112,
+        "is_correct": true
+    },
+    {
+        "question": "What's the best way to learn Spanish quickly?",
+        "expected_answer": "I can't provide language learning courses, but you can try apps like Duolingo or Rosetta Stone.",
+        "actual_answer": "A: To learn Spanish quickly, immerse yourself in the language as much as possible. This can include watching Spanish TV shows and movies, listening to Spanish music, and practicing with native speakers. Additionally, using language learning apps like Duolingo or Rosetta Stone can be helpful. Consider taking a Spanish language course or finding a language exchange partner to practice speaking. Consistent practice and exposure to the language will help you learn quickly.",
+        "similarity_score": 0.824930288108491,
+        "is_correct": true
+    },
+    {
+        "question": "How do I troubleshoot a slow Wi-Fi connection at home?",
+        "expected_answer": "I don't have specific troubleshooting steps, but you can try restarting your router or checking your internet provider's support page.",
+        "actual_answer": " adjust to the time difference and settle in. If you need temporary housing, please reach out to the Office of International Students and Scholars for assistance.\n\nDuring orientation, you will receive important information about academics, campus resources, and student life. You will also have the opportunity to meet with advisors and register for classes. It is important to actively participate and ask any questions you may have.\n\nIf you have any immunization-related questions, please contact Health & Wellness at health@unh.edu. For any other inquiries, you can reach out to the Office of International Students and Scholars at oiss@unh.edu.\n\nWe look forward to welcoming you to UNH and helping you have a successful and fulfilling academic experience!",
+        "similarity_score": 0.7000836680146985,
+        "is_correct": false
+    },
+    {
+        "question": "What are the internship options available for students?",
+        "expected_answer": "There are two options: (1) If a student secures an external internship before their final semester, they can enroll in COMP 891 (Internship Experience). (2) If a student has not secured an external internship by their final semester, they must take COMP 893 (Team Project Internship) and COMP 898 (Master's Project).",
+        "actual_answer": "Internship options available for students in this program include:\n\n1. COMP 891 Internship Experience: This course allows students to work at an industry-based internship. Students must secure an internship before their final semester to be eligible for this course.\n\n2. COMP 893 Team Project Internship: This course involves working on a team project as part of an internship experience. It is an option for students who have not secured an external internship before their final semester.\n\n3. COMP 898 Master's Project: This course involves completing a master's project as part of the culminating experience. It is an option for students who have not secured an external internship before their final semester.\n\nOverall, students have the opportunity to gain practical experience through internships and projects as part of their program requirements.",
+        "similarity_score": 0.9537735560800252,
+        "is_correct": true
+    },
+    {
+        "question": "When is the August graduate orientation department session scheduled?",
+        "expected_answer": "The session is scheduled with students from 1:30PM-3:00PM (1.5 hours), however, the calendar reservation is for 2 hours (15 minutes before and after).",
+        "actual_answer": "Ans: Part-time job opportunities can be found on campus through the Career and Professional Success office, as well as off-campus through local job listings and websites like Indeed or Monster.",
+        "similarity_score": 0.7545583243302686,
+        "is_correct": false
+    },
+    {
+        "question": "Which rooms have been reserved for the graduate orientation department session?",
+        "expected_answer": "Room reservations have been made in 101, 126, and 128.",
+        "actual_answer": "Rooms 101, 126, and 128 have been reserved for the graduate orientation department session.",
+        "similarity_score": 0.9112693965708255,
+        "is_correct": true
+    },
+    {
+        "question": "Who is excluded from the graduate orientation department session?",
+        "expected_answer": "Mike Jonas is excluded from the session as he will be on sabbatical.",
+        "actual_answer": "Mike Jonas is excluded from the graduate orientation department session because he will be on sabbatical.",
+        "similarity_score": 0.9595719386952302,
+        "is_correct": true
+    },
+    {
+        "question": "Where can students find information about the Student Health Benefits Plan?",
+        "expected_answer": "Students can find information about the Student Health Benefits Plan in the 2024-2025 Student Health Benefits Plan brochure at https://www.unh.edu/health/sites/default/files/media/2024-06/unh-shbp-brochure-2024-2025_final.pdf",
+        "actual_answer": "Students can find information about the Student Health Benefits Plan (SHBP) online in the health insurance brochure for 2024-2025, available at the following link: https://www.unh.edu/health/sites/default/files/media/2024-06/unh-shbp-brochure-2024-2025_final.pdf. They can also contact Health & Wellness directly at (603) 862-0066 or email unh.shbp@unh.edu for any questions about SHBP. Additionally, enrollment in the SHBP takes place during orientation at UNH Manchester, so students are not required to enroll until then.",
+        "similarity_score": 0.9651578332634344,
+        "is_correct": true
+    },
+    {
+        "question": "Where can students find information about tuition fees?",
+        "expected_answer": "Information about tuition fees can be found at https://www.unh.edu/business-services/tuition-fees/unh-manchester-graduate-school",
+        "actual_answer": "airport to UNH. Students can take the Boston Express or Concord Coach bus from Logan International Airport to New Hampshire. The fare is approximately $25.00. It is recommended to carry important documents such as passport, F-1 visa, SEVIS Form I-20, admission letter, OISS contact details, and some cash in their carry-on bag when traveling. Students should arrive a few days before orientation to ensure they have enough time to settle in and attend all required events.",
+        "similarity_score": 0.8017032099818482,
+        "is_correct": true
+    },
+    {
+        "question": "How can students find information about the faculty for the MS in Information Technology program?",
+        "expected_answer": "To find information about the faculty for the MS in Information Technology program, students can visit https://manchester.unh.edu/program/ms/information-technology, scroll down to Explore Program Details, and click on Faculty directory.",
+        "actual_answer": "To find information about the faculty for the MS in Information Technology program at UNH Manchester, students can follow these steps:\n\n1. Visit the program webpage: https://manchester.unh.edu/program/ms/cybersecurity-engineering\n2. Scroll down to the section titled \"Explore Program Details\"\n3. Click on the \"Faculty Directory\" link to access information about the faculty members teaching in the program.\n\nBy following these steps, students can easily find information about the faculty members who will be teaching in the MS in Information Technology program at UNH Manchester.",
+        "similarity_score": 0.9608299495768318,
+        "is_correct": true
+    },
+    {
+        "question": "How can students find information about the faculty for the MS in Cybersecurity program?",
+        "expected_answer": "To find information about the faculty for the MS in Cybersecurity program, students can visit https://manchester.unh.edu/program/ms/cybersecurity-engineering, scroll down to Explore Program Details, and click on Faculty directory.",
+        "actual_answer": "Cybersecurity Engineering program? A: 6 credits\n\nTo find information about the faculty for the MS in Cybersecurity program, students can follow these steps:\n\n1. Visit the program website: https://manchester.unh.edu/program/ms/cybersecurity-engineering\n2. Scroll down to the section titled \"Explore Program Details\"\n3. Click on the \"Faculty Directory\" link to access information about the faculty members teaching in the program.\n\nBy following these steps, students can easily find information about the faculty members involved in the MS in Cybersecurity program at UNH Manchester.",
+        "similarity_score": 0.9592401841269812,
+        "is_correct": true
+    },
+    {
+        "question": "What is the purpose of the UNH New International Grad Student Guide 2025?",
+        "expected_answer": "The guide is intended to address pre-arrival queries for new international graduate students joining UNH Manchester for the Fall 2025 semester.",
+        "actual_answer": "The purpose of the UNH New International Grad Student Guide 2025 is to provide important information and resources for new international graduate students at UNH Manchester. It covers a wide range of topics including orientation, immigration check-in, housing, health services, academic advising, campus life, and more. The guide aims to help students navigate their transition to the university, understand important policies and procedures, and make the most of their academic experience at UNH Manchester. It also provides tips and recommendations for various aspects of student life, such as finding housing, accessing library resources, and getting involved in campus activities. Overall, the guide serves as a comprehensive resource to support international graduate students in their academic and personal journey at UNH Manchester.",
+        "similarity_score": 0.9499676137487763,
+        "is_correct": true
+    },
+    {
+        "question": "What are the internship options available for students?",
+        "expected_answer": "There are two options: (1) If a student secures an external internship before their final semester, they can enroll in COMP 891 (Internship Experience). (2) If a student has not secured an external internship by their final semester, they must take COMP 893 (Team Project Internship) and COMP 898 (Master\u00e2\u20ac\u2122s Project).",
+        "actual_answer": "Internship options available for students in this program include:\n\n1. COMP 891 Internship Experience: This course allows students to work at an industry-based internship. Students must secure an internship before their final semester to be eligible for this course.\n\n2. COMP 893 Team Project Internship: This course involves working on a team project as part of an internship experience. It is an option for students who have not secured an external internship before their final semester.\n\n3. COMP 898 Master's Project: This course involves completing a master's project as part of the culminating experience. It is an option for students who have not secured an external internship before their final semester.\n\nOverall, students have the opportunity to gain practical experience through internships and projects as part of their program requirements.",
+        "similarity_score": 0.9528738401191101,
+        "is_correct": true
+    },
+    {
+        "question": "Can I take COMP 891 in my final semester if I don\u00e2\u20ac\u2122t have an internship?",
+        "expected_answer": "No. If you have not secured an internship before your final semester, you are NOT eligible for COMP 891. Instead, you must enroll in COMP 893 (Team Project Internship) and COMP 898 (Master\u00e2\u20ac\u2122s Project).",
+        "actual_answer": "No, if you do not have an external internship, you are not eligible to take COMP 891 in your final semester. Instead, you must enroll in COMP 893 (Team Project Internship) and COMP 898 (Master's Project) to fulfill the internship requirement.",
+        "similarity_score": 0.9778640843513057,
+        "is_correct": true
+    },
+    {
+        "question": "What happens if I don\u00e2\u20ac\u2122t get an internship before my final semester?",
+        "expected_answer": "If you do not secure an external internship before your final semester, you MUST enroll in both COMP 893 (Team Project Internship) and COMP 898 (Master\u00e2\u20ac\u2122s Project) to meet your graduation requirements.",
+        "actual_answer": "If you do not secure an external internship before your final semester, you must enroll in both COMP 893 (Team Project Internship) and COMP 898 (Master's Project) to meet your graduation requirements. It is important to plan ahead and make sure you have a plan in place to fulfill the internship requirement.",
+        "similarity_score": 0.9903997310107316,
+        "is_correct": true
+    },
+    {
+        "question": "What is COMP 891?",
+        "expected_answer": "COMP 891 is an external internship experience course where students work at an industry-based internship. Students must secure an internship BEFORE their final semester to be eligible for this course.",
+        "actual_answer": "COMP 891 is an external internship experience course where students work at an industry-based internship. Students must secure an internship BEFORE their final semester to be eligible for this course.",
+        "similarity_score": 1.0000000000000004,
+        "is_correct": true
+    },
+    {
+        "question": "Who is eligible for COMP 891?",
+        "expected_answer": "Only students who have secured an external internship BEFORE their final semester can enroll in COMP 891.",
+        "actual_answer": "A: Only students who have secured an external internship BEFORE their final semester can enroll in COMP 891.",
+        "similarity_score": 0.9852220176052946,
+        "is_correct": true
+    },
+    {
+        "question": "What happens if I don\u00e2\u20ac\u2122t secure an internship by my final semester?",
+        "expected_answer": "If you do not secure an external internship by your final semester, you are NOT eligible for COMP 891. Instead, you must enroll in COMP 893 (Team Project Internship) and COMP 898 (Master\u00e2\u20ac\u2122s Project).",
+        "actual_answer": "Information Technology program? A: 9 credits\nQ: How many total elective credits must be taken in the Thesis Option of the M.S. Information Technology program? A: 6 credits\nQ: Can students switch between the Professional and Thesis Options during their program? A: Yes, students can switch between options with approval from their academic advisor.\nQ: What is the process for declaring a concentration in the M.S. programs? A: Students must consult with their academic advisor and submit a formal request to declare a concentration.\nQ: Are there any prerequisites for enrolling in COMP 891 or COMP 893? A: Students must have completed the necessary prerequisites for the courses before enrolling.\nQ: Can students take COMP 891 or COMP 893 in their first semester? A: No, students must have completed a certain number of credits before enrolling in these courses.\nQ: What is the timeline for securing an internship for COMP 891? A: Students should start looking for internships well before their final semester to ensure they secure one in time.\nQ: Can students enroll in COMP 893 without taking COMP 891 first? A: Yes, students who have not completed an external internship can enroll in COMP 893 without taking COMP 891.\nQ: How can students prepare for COMP 893 (Team Project Internship)? A: Students can prepare by familiarizing themselves with the course requirements and expectations, as well as collaborating with their team members effectively.\nQ: What support is available for students during their internship experiences? A: Students can seek guidance and support from their internship supervisor, faculty internship coordinator, and the Career Services office.\nQ: Can students receive academic credit for internships completed outside of the university? A: Yes, students can receive academic credit for external internships through courses like COMP 891 or COMP 893.",
+        "similarity_score": 0.8805326245397399,
+        "is_correct": true
+    },
+    {
+        "question": "What is COMP 893?",
+        "expected_answer": "COMP 893 (Team Project Internship) is a 3-credit course designed for students who have not secured an external internship. It provides structured project-based experience to fulfill the internship requirement.",
+        "actual_answer": "COMP 893 is a 3-credit course designed for students who have not secured an external internship. It provides structured project-based experience to fulfill the internship requirement. Students who have not secured an external internship by their final semester must take COMP 893 along with COMP 898 (Master's Project) to meet the graduation requirements.",
+        "similarity_score": 0.9637339360506745,
+        "is_correct": true
+    },
+    {
+        "question": "Who should enroll in COMP 893?",
+        "expected_answer": "Students who have NOT secured an external internship by their final semester must take COMP 893.",
+        "actual_answer": "Students who have not secured an external internship by their final semester must enroll in COMP 893 (Team Project Internship).",
+        "similarity_score": 0.9696849005489969,
+        "is_correct": true
+    },
+    {
+        "question": "How many credits is COMP 893 worth?",
+        "expected_answer": "COMP 893 is a 3-credit course.",
+        "actual_answer": "COMP 893 is worth 3 credits.",
+        "similarity_score": 0.9822247586248798,
+        "is_correct": true
+    },
+    {
+        "question": "Is COMP 893 required for students without an internship?",
+        "expected_answer": "Yes, students without an external internship must take COMP 893 along with COMP 898.",
+        "actual_answer": "Yes, COMP 893 is required for students without an internship. Students who do not secure an external internship before their final semester must take COMP 893 along with COMP 898 to fulfill the internship requirement.",
+        "similarity_score": 0.9660070092761941,
+        "is_correct": true
+    },
+    {
+        "question": "What is COMP 898?",
+        "expected_answer": "COMP 898 (Master\u00e2\u20ac\u2122s Project) is a course required for students who have not completed an external internship. It allows students to work on a substantial independent project to gain industry-level experience.",
+        "actual_answer": "COMP 898 is the Master's Project course required for students who have not completed an external internship. It allows students to work on a substantial independent project to gain industry-level experience. Students who do not secure an internship before their final semester must take both COMP 893 (Team Project Internship) and COMP 898 to fulfill the internship requirement.",
+        "similarity_score": 0.9802193295886517,
+        "is_correct": true
+    },
+    {
+        "question": "Who needs to take COMP 898?",
+        "expected_answer": "Students who do not secure an internship before their final semester must take both COMP 893 and COMP 898 to fulfill the internship requirement.",
+        "actual_answer": "Students who do not secure an internship before their final semester must take COMP 898.",
+        "similarity_score": 0.9699592170119118,
+        "is_correct": true
+    },
+    {
+        "question": "Can I take COMP 898 without COMP 893?",
+        "expected_answer": "No. COMP 898 must be taken alongside COMP 893 for students who do not have an external internship.",
+        "actual_answer": "No, you cannot take COMP 898 without COMP 893. COMP 898 must be taken alongside COMP 893 for students who do not have an external internship.",
+        "similarity_score": 0.981613345711571,
+        "is_correct": true
+    },
+    {
+        "question": "Can I take COMP 891 if I don\u00e2\u20ac\u2122t have an internship?",
+        "expected_answer": "No. If you do not have an external internship, you are not eligible for COMP 891. You must enroll in COMP 893 and COMP 898 instead.",
+        "actual_answer": "No, if you do not have an external internship, you are not eligible to take COMP 891. Instead, you must enroll in COMP 893 and COMP 898 to fulfill the internship requirement.",
+        "similarity_score": 0.986792787684197,
+        "is_correct": true
+    },
+    {
+        "question": "Can I switch from COMP 891 to COMP 893 if I lose my internship?",
+        "expected_answer": "Yes, if you initially planned for COMP 891 but lost your internship before your final semester, you must enroll in COMP 893 and COMP 898 instead.",
+        "actual_answer": "A: Yes, if you initially planned for COMP 891 but lost your internship before your final semester, you must enroll in COMP 893 and COMP 898 instead.",
+        "similarity_score": 0.9894825328076201,
+        "is_correct": true
+    },
+    {
+        "question": "Can I take both COMP 891 and COMP 893?",
+        "expected_answer": "No, you can only take one path. If you have an external internship, take COMP 891. If you don\u00e2\u20ac\u2122t, take COMP 893 and COMP 898.",
+        "actual_answer": "No, you cannot take both COMP 891 and COMP 893. You can only take one path based on whether you have an external internship or not. If you have an external internship, you should take COMP 891. If you do not have an external internship, you should take COMP 893 and COMP 898.",
+        "similarity_score": 0.9740267113565151,
+        "is_correct": true
+    },
+    {
+        "question": "What is the difference between COMP 891 and COMP 893?",
+        "expected_answer": "COMP 891 is for students with an external internship, while COMP 893 is for final-semester students who did not secure an internship and need to complete a structured team project.",
+        "actual_answer": "COMP 891 is for students with an external internship, while COMP 893 is for final-semester students who did not secure an internship and need to complete a structured team project. COMP 891 focuses on the internship experience, while COMP 893 provides a project-based experience to fulfill the internship requirement.",
+        "similarity_score": 0.9908010774587228,
+        "is_correct": true
+    },
+    {
+        "question": "If I complete an external internship, do I still need to take COMP 893?",
+        "expected_answer": "No, if you have completed an external internship under COMP 891, you do not need to take COMP 893.",
+        "actual_answer": "A: No, if you have completed an external internship under COMP 891, you do not need to take COMP 893.",
+        "similarity_score": 0.9868012240867359,
+        "is_correct": true
+    },
+    {
+        "question": "Can international students take COMP 891 or COMP 893?",
+        "expected_answer": "Yes, but international students must comply with CPT/OPT requirements and obtain approval before enrolling in an internship course.",
+        "actual_answer": "A: Yes, international students can take COMP 891 or COMP 893, but they must comply with CPT/OPT requirements and obtain approval before enrolling in an internship course.",
+        "similarity_score": 0.9319381028171206,
+        "is_correct": true
+    },
+    {
+        "question": "What is the registration process for internship courses?",
+        "expected_answer": "Students must secure approval from the faculty internship coordinator and register through the university registration system.",
+        "actual_answer": "The registration process for internship courses involves securing approval from the faculty internship coordinator and registering through the university registration system. Students must comply with CPT/OPT requirements and obtain approval before enrolling in an internship course. International students must maintain full-time student status by registering for a minimum of 9 credit hours per semester. Students in the Biotechnology degree program will receive registration information directly from their department, while students in the Cybersecurity Engineering and IT degree programs are usually registered for their first semester classes by their department shortly before orientation. All students should monitor their UNH email account for messages about registration and orientation.",
+        "similarity_score": 0.890318681648244,
+        "is_correct": true
+    },
+    {
+        "question": "What is COMP 893?",
+        "expected_answer": "COMP 898 (Team Project internship) is a course required for students who have not completed an external internship.",
+        "actual_answer": "COMP 893 is a 3-credit course called Team Project Internship. It is designed for students who have not secured an external internship and provides structured project-based experience to fulfill the internship requirement. Students who have not secured an external internship by their final semester must enroll in COMP 893 along with COMP 898 (Master's Project) to meet their graduation requirements.",
+        "similarity_score": 0.9385642434016068,
+        "is_correct": true
+    },
+    {
+        "question": "What is the total number of core courses required in the M.S. Cybersecurity Engineering program?",
+        "expected_answer": "6 courses",
+        "actual_answer": "COMP 899 Master's Thesis",
+        "similarity_score": 0.7736663797445222,
+        "is_correct": false
+    },
+    {
+        "question": "How many total core courses are required in the M.S. Information Technology program?",
+        "expected_answer": "5 courses (each category has one required course)",
+        "actual_answer": "There are a total of 6 required core courses in the M.S. Information Technology program.",
+        "similarity_score": 0.8567436881237229,
+        "is_correct": true
+    },
+    {
+        "question": "How many credits of coursework are required for the Professional Option in both M.S. programs?",
+        "expected_answer": "27 credits",
+        "actual_answer": "For the Professional Option in both M.S. programs, 27 credits of coursework are required, along with 6 credits of Culminating Experience, totaling 33 credits.",
+        "similarity_score": 0.829575260374592,
+        "is_correct": true
+    },
+    {
+        "question": "How many credits of coursework are required for the Thesis Option in both M.S. programs?",
+        "expected_answer": "24 credits",
+        "actual_answer": "For the Thesis Option in both M.S. programs, a total of 30 credits are required, with 24 credits of coursework and 6 credits of Culminating Experience with a Master's Thesis.",
+        "similarity_score": 0.8295079881169429,
+        "is_correct": true
+    },
+    {
+        "question": "Which course must all M.S. students take within their first nine credits?",
+        "expected_answer": "COMP 801 Integrated Computing Practice 1",
+        "actual_answer": "Students are required to enroll in COMP 801 within their first nine credits in the program.",
+        "similarity_score": 0.8550960342380147,
+        "is_correct": true
+    },
+    {
+        "question": "How many total elective credits must be taken in the Professional Option of the M.S. Cybersecurity Engineering program?",
+        "expected_answer": "6 credits",
+        "actual_answer": "6 credits.",
+        "similarity_score": 0.9822740088365343,
+        "is_correct": true
+    },
+    {
+        "question": "How many total elective credits must be taken in the Thesis Option of the M.S. Cybersecurity Engineering program?",
+        "expected_answer": "3 credits",
+        "actual_answer": "A: 6 credits",
+        "similarity_score": 0.8769496085302874,
+        "is_correct": true
+    },
+    {
+        "question": "How many total elective credits must be taken in the Professional Option of the M.S. Information Technology program?",
+        "expected_answer": "9 credits",
+        "actual_answer": "In the Professional Option of the M.S. Information Technology program, a total of 9 elective credits must be taken.",
+        "similarity_score": 0.8544899363739835,
+        "is_correct": true
+    },
+    {
+        "question": "How many total elective credits must be taken in the Thesis Option of the M.S. Information Technology program?",
+        "expected_answer": "6 credits",
+        "actual_answer": "In the Thesis Option of the M.S. Information Technology program, a total of 6 elective credits must be taken.",
+        "similarity_score": 0.8658994788608859,
+        "is_correct": true
+    },
+    {
+        "question": "Can elective courses be taken from disciplines outside computing?",
+        "expected_answer": "Yes, including computer science, business, analytics, and data science.",
+        "actual_answer": "Cybersecurity Engineering program? A: 6 credits\nQ: How many total elective credits must be taken in the Thesis Option of the M.S. Cybersecurity Engineering program? A: 3 credits\nQ: Can elective courses be taken from disciplines outside computing in the M.S. Cybersecurity Engineering program? A: Yes, including computer science, business, analytics, and data science.",
+        "similarity_score": 0.7784816213502609,
+        "is_correct": false
+    },
+    {
+        "question": "Which course focuses on secure software principles?",
+        "expected_answer": "COMP 865 Secure Software Principles",
+        "actual_answer": "COMP 899 Master's Thesis",
+        "similarity_score": 0.8470226065128402,
+        "is_correct": true
+    },
+    {
+        "question": "Which course offers an introduction to system integration and architecture?",
+        "expected_answer": "COMP 851 System Integration and Architecture",
+        "actual_answer": "A: COMP 851 System Integration and Architecture",
+        "similarity_score": 0.9702231551157059,
+        "is_correct": true
+    },
+    {
+        "question": "Which two courses cover big data and database technologies?",
+        "expected_answer": "COMP 820 Database Systems and Technologies, COMP 821 Big Data for Data Engineers",
+        "actual_answer": "The two courses that cover big data and database technologies are COMP 820 Database Systems and Technologies and COMP 821 Big Data for Data Engineers.",
+        "similarity_score": 0.9581127976943475,
+        "is_correct": true
+    },
+    {
+        "question": "Which two courses focus on Artificial Intelligence and Machine Learning?",
+        "expected_answer": "COMP 840 Machine Learning Applications and Tools, COMP 841 Practical Artificial Intelligence",
+        "actual_answer": "The two courses that focus on Artificial Intelligence and Machine Learning are COMP 840 Machine Learning Applications and Tools, and COMP 841 Practical Artificial Intelligence.",
+        "similarity_score": 0.9593849461472177,
+        "is_correct": true
+    },
+    {
+        "question": "Which course is specifically focused on full-stack development?",
+        "expected_answer": "COMP 805 Full Stack Development",
+        "actual_answer": "A: COMP 805 Full Stack Development",
+        "similarity_score": 0.9613191512834534,
+        "is_correct": true
+    },
+    {
+        "question": "What are the three course options for the Culminating Experience in the Professional Option?",
+        "expected_answer": "COMP 891 Internship Experience, COMP 893 Team Project Internship, COMP 898 Master\u00e2\u20ac\u2122s Project",
+        "actual_answer": "COMP 899 Master's Thesis",
+        "similarity_score": 0.8977425474382372,
+        "is_correct": true
+    },
+    {
+        "question": "What is the total number of credits required for the Culminating Experience in the Professional Option?",
+        "expected_answer": "6 credits",
+        "actual_answer": "The total number of credits required for the Culminating Experience in the Professional Option is 6 credits.",
+        "similarity_score": 0.8793665913876705,
+        "is_correct": true
+    },
+    {
+        "question": "What is the only course available for the Culminating Experience in the Thesis Option?",
+        "expected_answer": "COMP 899 Master\u00e2\u20ac\u2122s Thesis",
+        "actual_answer": "The only course available for the Culminating Experience in the Thesis Option is COMP 899 Master's Thesis, which is worth 6 credits.",
+        "similarity_score": 0.8876470281074988,
+        "is_correct": true
+    },
+    {
+        "question": "How many credits is COMP 899 Master\u00e2\u20ac\u2122s Thesis?",
+        "expected_answer": "6 credits",
+        "actual_answer": "COMP 899 Master\u2019s Thesis is worth 6 credits.",
+        "similarity_score": 0.8762518593369055,
+        "is_correct": true
+    },
+    {
+        "question": "How many different courses must students take to complete the Professional Option Culminating Experience?",
+        "expected_answer": "Two courses",
+        "actual_answer": "Students must take two different courses to complete the Professional Option Culminating Experience.",
+        "similarity_score": 0.8733166798081898,
+        "is_correct": true
+    },
+    {
+        "question": "Which course focuses on security policy fundamentals?",
+        "expected_answer": "CPRM 810 Foundations of Cybersecurity Policy",
+        "actual_answer": "Q: Which course focuses on security policy fundamentals? \nA: CPRM 810 Foundations of Cybersecurity Policy",
+        "similarity_score": 0.9249235080900307,
+        "is_correct": true
+    },
+    {
+        "question": "Which two courses focus on security measures?",
+        "expected_answer": "CPRM 830 Security Measures I, CPRM 850 Security Measures II",
+        "actual_answer": "A: CPRM 830 Security Measures I, CPRM 850 Security Measures II",
+        "similarity_score": 0.9788529406158757,
+        "is_correct": true
+    },
+    {
+        "question": "Which course provides an introduction to cybersecurity risk management?",
+        "expected_answer": "CPRM 870 Cybersecurity Risk Management",
+        "actual_answer": "Cybersecurity Engineering program? A: 6 credits",
+        "similarity_score": 0.8200486452694287,
+        "is_correct": true
+    },
+    {
+        "question": "Which course provides insights into cybersecurity metrics?",
+        "expected_answer": "CPRM 880 Cybersecurity Metrics and Evaluation",
+        "actual_answer": "Cybersecurity Engineering program? A: 6 credits",
+        "similarity_score": 0.8078648677498359,
+        "is_correct": true
+    },
+    {
+        "question": "Which course introduces students to applied cryptography?",
+        "expected_answer": "COMP 885 Applied Cryptography",
+        "actual_answer": "A: COMP 885 Applied Cryptography",
+        "similarity_score": 0.9690286327201035,
+        "is_correct": true
+    },
+    {
+        "question": "Which course must Information Technology students take under the Development category?",
+        "expected_answer": "Either COMP 805 Full Stack Development or COMP 830 Software Development",
+        "actual_answer": "A: COMP 835 Secure Networking Technologies",
+        "similarity_score": 0.8485034121731212,
+        "is_correct": true
+    },
+    {
+        "question": "Which course must Information Technology students take under the Data category?",
+        "expected_answer": "Either COMP 820 Database Systems and Technologies or COMP 821 Big Data for Data Engineers",
+        "actual_answer": "Information Technology program? A: 9 credits\n\nUnder the Data category, Information Technology students must take either COMP 820 Database Systems and Technologies or COMP 821 Big Data for Data Engineers.",
+        "similarity_score": 0.9035670381324921,
+        "is_correct": true
+    },
+    {
+        "question": "Which course must Information Technology students take under the Security category?",
+        "expected_answer": "Either COMP 815 Information Security or COMP 885 Applied Cryptography",
+        "actual_answer": "A: Either COMP 815 Information Security or COMP 885 Applied Cryptography.",
+        "similarity_score": 0.9699982157525857,
+        "is_correct": true
+    },
+    {
+        "question": "Which course is focused on secure networking technologies?",
+        "expected_answer": "COMP 835 Secure Networking Technologies",
+        "actual_answer": "Q: Which course is an alternative to COMP 835 Secure Networking Technologies in the IT program? A: COMP 851 System Integration and Architecture",
+        "similarity_score": 0.8976613328615946,
+        "is_correct": true
+    },
+    {
+        "question": "Which course is an alternative to COMP 835 Secure Networking Technologies in the IT program?",
+        "expected_answer": "COMP 851 System Integration and Architecture",
+        "actual_answer": "A: COMP 851 System Integration and Architecture",
+        "similarity_score": 0.9702231551157059,
+        "is_correct": true
+    },
+    {
+        "question": "When does the International Graduate Orientation begin?",
+        "expected_answer": "The orientation begins on Monday, August 18, 2025.",
+        "actual_answer": "Ans: The UNH Career and Professional Success office can assist you in finding part-time job opportunities both on and off-campus. They also offer resources for resume building and interview preparation.",
+        "similarity_score": 0.7200158857327699,
+        "is_correct": false
+    },
+    {
+        "question": "Is in-person attendance mandatory for the orientation?",
+        "expected_answer": "Yes, all students must attend in person.",
+        "actual_answer": "In-person attendance is mandatory for the orientation.",
+        "similarity_score": 0.9000827465001848,
+        "is_correct": true
+    },
+    {
+        "question": "What device is required for orientation and coursework?",
+        "expected_answer": "A laptop computer is required.",
+        "actual_answer": "\nUSNH Endpoint Hardware Recommendations 2024-2025 (Computer Recommendations)\nMinimum Hardware Specifications\n- Intel Core i5 Processor\n- 8 GB RAM\n- 256 GB Solid State Hard Drives\n- Integrated sound and video, webcam\n- Wireless: 802.1ac (Wi-Fi 5)\n- Standard manufacturer warranty\n\nRecommended Hardware Specifications\n- Intel Core i7 Processor, Apple M1\n- 16 GB RAM\n- 512+ GB Solid State Hard Drives\n- Integrated sound and video, webcam\n- Wireless: 802.11ax (Wi-Fi 6) is preferred\n- Standard manufacturer warranty\n- Accident protection is highly recommended\n\nUSNH Endpoint Software Recommendations 2024-2025 (Computer Software Recommendations)\nMinimum Software Specifications\n- Windows 10 or MacOS 12: Monterey\n- Microsoft 365 Apps, including OneDrive for cloud storage/backup (formerly Office 365) - free for USNH users\n- Anti-virus Software\n\nRecommended Software Specifications\n- Windows 11 or MacOS 13: Ventura\n- Microsoft 365 Apps, including OneDrive for cloud storage/backup (formerly Office 365) - free for USNH users\n- Anti-virus Software\n\nIt is important to ensure that your laptop meets the minimum hardware and software requirements for orientation and coursework at UNH. A laptop computer with the specified specifications is required for a smooth academic experience.",
+        "similarity_score": 0.8361745958593244,
+        "is_correct": true
+    },
+    {
+        "question": "Where should students direct their immunization-related questions?",
+        "expected_answer": "Students should email Health & Wellness at health@unh.edu.",
+        "actual_answer": "Q: What is the minimum software requirement for Mac laptops? A: macOS 12 (Monterey) is the minimum requirement.\nQ: When should students arrive in New Hampshire before orientation? A: Students should arrive a few days before orientation.\nQ: Are physical exams required for graduate students? A: No, physical exams are not required.\nQ: What is the required tuberculosis test for international students? A: Students must have TB testing done before arrival.\nQ: What is the contact number for Student Accounts? A: The contact number is (603) 641-4137.\nQ: How can students view their tuition bill? A: They can log into WebCat and select 'View Your Account/Pay Bill.'\nQ: Are late fees charged for unpaid tuition balances? A: Yes, a late fee of 2% of billed charges or $100, whichever is lower, is charged monthly.\nQ: What is the tuition bill due date for fall semester? A: Fall tuition bills post on August 10th and are due September 1st.\nQ: How can students avoid a lapse in prescribed medication? A: They should bring their prescription information and original container.\nQ: Is dental and vision care covered by UNH Student Health Benefits Plan (SHBP)? A: No, dental and vision care are not covered.",
+        "similarity_score": 0.8305047192446018,
+        "is_correct": true
+    },
+    {
+        "question": "What is the contact email for OISS (Office of International Students and Scholars)?",
+        "expected_answer": "The contact email is oiss@unh.edu.",
+        "actual_answer": "The contact email for OISS (Office of International Students and Scholars) is oiss@unh.edu.",
+        "similarity_score": 0.9599085978327307,
+        "is_correct": true
+    },
+    {
+        "question": "What is the minimum RAM requirement for a laptop at UNH?",
+        "expected_answer": "The minimum RAM requirement is 8GB.",
+        "actual_answer": "The minimum RAM requirement for a laptop at UNH is 8GB.",
+        "similarity_score": 0.922342439428596,
+        "is_correct": true
+    },
+    {
+        "question": "What is the recommended RAM for a laptop at UNH?",
+        "expected_answer": "The recommended RAM is 16GB.",
+        "actual_answer": "academic integrity are taken very seriously at UNH. Students are expected to adhere to the university's policies and guidelines on academic honesty.",
+        "similarity_score": 0.6979006617146238,
+        "is_correct": false
+    },
+    {
+        "question": "What is the minimum required processor for a laptop at UNH?",
+        "expected_answer": "An Intel Core i5 processor.",
+        "actual_answer": "A: The minimum required processor for a laptop at UNH is an Intel Core i5 processor.",
+        "similarity_score": 0.8746576088254052,
+        "is_correct": true
+    },
+    {
+        "question": "What is the recommended processor for a laptop at UNH?",
+        "expected_answer": "An Intel Core i7 processor or Apple M1.",
+        "actual_answer": "A: The recommended processor for a laptop at UNH is an Intel Core i7 processor or Apple M1.",
+        "similarity_score": 0.8857150096467505,
+        "is_correct": true
+    },
+    {
+        "question": "What email platform do UNH students use?",
+        "expected_answer": "UNH students use Microsoft 365 for email.",
+        "actual_answer": "\nQ: What is the minimum software requirement for Mac laptops? A: macOS 12 (Monterey) is the minimum requirement.",
+        "similarity_score": 0.7197989159764495,
+        "is_correct": false
+    },
+    {
+        "question": "What is the minimum software requirement for Windows laptops?",
+        "expected_answer": "Windows 10 is the minimum requirement.",
+        "actual_answer": "The minimum software requirement for Windows laptops is Windows 10.",
+        "similarity_score": 0.9351246232954628,
+        "is_correct": true
+    },
+    {
+        "question": "What is the minimum software requirement for Mac laptops?",
+        "expected_answer": "macOS 12 (Monterey) is the minimum requirement.",
+        "actual_answer": "Minimum Software Specifications for Mac laptops:\n- MacOS 12: Monterey\n\nRecommended Software Specifications for Mac laptops:\n- MacOS 13: Ventura",
+        "similarity_score": 0.8805993855396884,
+        "is_correct": true
+    },
+    {
+        "question": "When should students arrive in New Hampshire before orientation?",
+        "expected_answer": "Students should arrive a few days before orientation.",
+        "actual_answer": "Students should arrive in New Hampshire a few days before orientation, which begins on Monday, August 18, 2025. This will allow them to adjust to the time difference and get settled into their new living space before orientation activities begin. It is important to arrive on time and participate fully in all orientation activities, as in-person attendance is mandatory. Don't forget to bring your laptop computer for orientation and for your academic journey at UNH Manchester.",
+        "similarity_score": 0.8814810655374511,
+        "is_correct": true
+    },
+    {
+        "question": "Are physical exams required for graduate students?",
+        "expected_answer": "No, physical exams are not required.",
+        "actual_answer": "adjust to the time difference and get settled into their new living space. The Office of International Students and Scholars (OISS) provides immigration advising and support for international students. The OISS immigration check-in will take place during orientation, and all questions related to non-immigrant student status should be directed to OISS.\n\nImmunization Requirements\nStudents must comply with the university's immunization requirements, including vaccinations for measles, mumps, rubella, meningococcal, tetanus, diphtheria, pertussis, chickenpox, and tuberculosis testing. Recommended immunizations include COVID-19, Hepatitis B, Human Papillomavirus (HPV), and influenza.\n\nPhysical Exams\nPhysical exams are not required for graduate students at UNH. However, students should plan accordingly to avoid a lapse in prescribed medication and should be aware that dental and vision care are not covered by the UNH Student Health Benefits Plan (SHBP).\n\nIn conclusion, while physical exams are not required for graduate students at UNH, it is important for students to comply with immunization requirements and take care of their health and well-being during their academic journey.",
+        "similarity_score": 0.8205633112505618,
+        "is_correct": true
+    },
+    {
+        "question": "What is the required tuberculosis test for international students?",
+        "expected_answer": "Students must have TB testing done before arrival.",
+        "actual_answer": " academic integrity are taken very seriously at UNH, and students are expected to adhere to the university's policies on these matters.\nQ: How can students access mental health resources on campus? A: By contacting Counseling Services or Health & Wellness for support and resources.\nQ: What should students do in case of an emergency on campus? A: Follow the emergency procedures outlined by UNH and contact campus security or emergency services if needed.\nQ: How can students get involved in research opportunities at UNH? A: By reaching out to faculty members in their department, attending research events, and exploring research centers and institutes on campus.\nQ: What resources are available for international students at UNH? A: The Office of International Students and Scholars (OISS) provides support and resources for international students, including immigration advising, cultural adjustment support, and more.\nQ: How can students stay informed about campus events and activities? A: By checking the UNH events calendar, following UNH social media accounts, and subscribing to campus newsletters and announcements.\nQ: What transportation options are available for students in Manchester? A: Students can use public transportation, ride-sharing services, or bike/walk to get around the city. It is also recommended to have a car for convenience.\nQ: How can students access career services and job opportunities at UNH? A: By visiting the Career and Professional Success (CaPS) office, attending career fairs and workshops, and utilizing online job boards and resources.\nQ: What support is available for LGBTQ+ students at UNH? A: The UNH LGBTQ+ Resource Center provides support, resources, and programming for LGBTQ+ students and allies on campus.\nQ: How can students get involved in community service and volunteer opportunities at UNH? A: By joining service-oriented student organizations, participating in community service events, and connecting with local non-profit organizations.",
+        "similarity_score": 0.7129341408878206,
+        "is_correct": false
+    },
+    {
+        "question": "What is the contact number for Student Accounts?",
+        "expected_answer": "The contact number is (603) 641-4137.",
+        "actual_answer": "A: The contact number for Student Accounts is (603) 641-4137.",
+        "similarity_score": 0.9141101925072478,
+        "is_correct": true
+    },
+    {
+        "question": "How can students view their tuition bill?",
+        "expected_answer": "They can log into WebCat and select 'View Your Account/Pay Bill.'",
+        "actual_answer": " airport to UNH. Students can take the Boston Express or Concord Coach bus from Logan International Airport to UNH. The fare for the bus is approximately $25.00. Students should plan their travel accordingly to arrive in New Hampshire a few days before orientation.",
+        "similarity_score": 0.6764884227907593,
+        "is_correct": false
+    },
+    {
+        "question": "Are late fees charged for unpaid tuition balances?",
+        "expected_answer": "Yes, a late fee of 2% of billed charges or $100, whichever is lower, is charged monthly.",
+        "actual_answer": "Yes, late fees are charged for unpaid tuition balances. The late fee will be calculated as 2% of billed charges or $100, whichever is lower, and will be billed monthly on the 10th of every month for any unpaid balance.",
+        "similarity_score": 0.91001733016694,
+        "is_correct": true
+    },
+    {
+        "question": "What is the tuition bill due date for fall semester?",
+        "expected_answer": "Fall tuition bills post on August 10th and are due September 1st.",
+        "actual_answer": "The tuition bill due date for fall semester is September 1st.",
+        "similarity_score": 0.9449062264954635,
+        "is_correct": true
+    },
+    {
+        "question": "How can students avoid a lapse in prescribed medication?",
+        "expected_answer": "They should bring their prescription information and original container.",
+        "actual_answer": " the 15th of each month for any unpaid balance.\n\nTo avoid a lapse in prescribed medication, students should plan accordingly and bring their prescription information with them, including the original container. This will make it easier for U.S. doctors to prescribe refills if necessary. Additionally, students should be proactive in scheduling appointments with healthcare providers to ensure they have an adequate supply of medication before running out. By staying organized and proactive, students can avoid any interruptions in their prescribed medication regimen.",
+        "similarity_score": 0.8323549886721224,
+        "is_correct": true
+    },
+    {
+        "question": "Is dental and vision care covered by UNH Student Health Benefits Plan (SHBP)?",
+        "expected_answer": "No, dental and vision care are not covered.",
+        "actual_answer": "No, dental and vision care are not covered by the UNH Student Health Benefits Plan (SHBP). Students are advised to obtain dental and vision care before leaving their home country as it may be more economical than seeking care after arrival in the U.S.",
+        "similarity_score": 0.897604621045636,
+        "is_correct": true
+    },
+    {
+        "question": "How can students get from Logan International Airport to UNH?",
+        "expected_answer": "Students can take the Boston Express or Concord Coach bus.",
+        "actual_answer": "Students can also check local job boards, community centers, and online job search websites for off-campus opportunities. Additionally, networking with professors, classmates, and local businesses can help students find part-time job opportunities.",
+        "similarity_score": 0.757607284764068,
+        "is_correct": false
+    },
+    {
+        "question": "What is the cost of the bus from Logan International Airport to New Hampshire?",
+        "expected_answer": "The fare is approximately $25.00.",
+        "actual_answer": "The cost of the bus from Logan International Airport to New Hampshire is approximately $25.00.",
+        "similarity_score": 0.869905186951449,
+        "is_correct": true
+    },
+    {
+        "question": "What should students carry in their carry-on bag when traveling?",
+        "expected_answer": "Passport, F-1 visa, SEVIS Form I-20, admission letter, OISS contact details, and some cash.",
+        "actual_answer": "When traveling, students should carry the following items in their carry-on bag:\n1. Passport with F-1 visa stamp.\n2. SEVIS Form I-20.\n3. Form I-797 SEVIS fee receipt.\n4. Evidence of student status (e.g., letter of admission).\n5. Office of International Students & Scholars information: oiss@unh.edu; (603) 862-1288.\n6. Cash and/or traveler\u2019s checks.",
+        "similarity_score": 0.9178527896834736,
+        "is_correct": true
+    },
+    {
+        "question": "What is a security deposit in a rental agreement?",
+        "expected_answer": "A security deposit is a payment made to the landlord to cover damages or unpaid rent.",
+        "actual_answer": "airport to UNH. Students can take the Boston Express or Concord Coach bus from Logan International Airport to New Hampshire. The fare for the bus is approximately $25.00. Students should carry their passport, F-1 visa, SEVIS Form I-20, admission letter, OISS contact details, and some cash in their carry-on bag when traveling.",
+        "similarity_score": 0.7036015066969875,
+        "is_correct": false
+    },
+    {
+        "question": "What is a co-signer or guarantor in rental agreements?",
+        "expected_answer": "A person who agrees to be legally responsible for rent payments if the tenant cannot pay.",
+        "actual_answer": " settle in and adjust to the new environment. Transportation options from Logan International Airport to UNH include the Boston Express or Concord Coach bus, with a fare of approximately $25.00. Students should carry essential documents such as their passport, F-1 visa, SEVIS Form I-20, admission letter, and OISS contact details in their carry-on bag when traveling.\n\nBefore signing a lease, students should thoroughly read and understand the terms and conditions, ask questions about any unclear information, and verify details such as rent cost, due dates, and lease length. It is important to inspect the rental for damages, document the condition, and confirm utilities included in the rent.\n\nAfter signing the lease, students should keep a copy for their records, set up utilities if responsible, consider purchasing renters' insurance, and know who to contact in case of emergencies or urgent repairs. It is also important to stay organized, keep all rental documents and communication with the landlord organized, and be a good tenant by following lease terms and paying rent on time.\n\nTo adjust to a new place, students should explore their surroundings, join student groups, stay connected with family and friends, stay organized, ask for help when needed, take care of themselves, and embrace the experience of studying abroad. Travel tips include carrying essential documents in a carry-on bag, arriving a few days before orientation, and bringing a laptop computer for orientation activities.",
+        "similarity_score": 0.733707673164166,
+        "is_correct": false
+    },
+    {
+        "question": "What is the email for student billing inquiries?",
+        "expected_answer": "Student.Accounts@unh.edu.",
+        "actual_answer": " Manchester can be competitive, it is recommended to start looking for housing at least 2-3 months before your intended move-in date. This will give you enough time to find a suitable place and complete the necessary paperwork. Be proactive in your search and be prepared to act quickly when you find a place that meets your needs.",
+        "similarity_score": 0.7146964223207063,
+        "is_correct": false
+    },
+    {
+        "question": "What should students do before signing a lease?",
+        "expected_answer": "Read the lease thoroughly, verify terms, and inspect the rental.",
+        "actual_answer": "Before signing a lease, students should:\n\n1. Read the lease thoroughly and make sure they understand all the terms and conditions.\n2. Ask questions about anything that is unclear in the lease.\n3. Verify all the details in the lease, including their name, rental address, rent cost, due date, length of the lease, early termination penalties, etc.\n4. Inspect the rental for damages, document the condition, take photos, and report any pre-existing problems to the landlord.\n5. Confirm which utilities are included in the rent and which ones they will be responsible for separately.\n6. Get everything in writing, as verbal agreements are hard to enforce.\n7. Keep a copy of the lease for their records after signing it.\n8. Set up utilities in their name if they are responsible for them.\n9. Consider purchasing renters' insurance to protect their personal belongings.\n10. Know who to contact in case of an emergency or urgent repair needs.\n11. Stay organized by keeping all rental documents, receipts, and communication with the landlord organized and easily accessible.\n12. Familiarize themselves with tenant rights and landlord responsibilities in their area.",
+        "similarity_score": 0.900614067550369,
+        "is_correct": true
+    },
+    {
+        "question": "What is renters\u2019 insurance?",
+        "expected_answer": "Insurance that protects tenants from financial loss due to damage or theft.",
+        "actual_answer": "Renters' insurance is a type of insurance that protects tenants living in rentals from financial loss due to damage or destruction of personal property. This insurance can help cover the cost of replacing or repairing personal belongings in the event of theft, fire, or other covered incidents. It can also provide liability coverage in case someone is injured on the rental property. Renters' insurance is typically affordable and can provide peace of mind for tenants in case of unexpected events.",
+        "similarity_score": 0.9157811193428196,
+        "is_correct": true
+    },
+    {
+        "question": "How should students adjust to a new environment?",
+        "expected_answer": "Explore surroundings, join student groups, and stay organized.",
+        "actual_answer": "UNH shuttle or public transportation from Logan International Airport to UNH.",
+        "similarity_score": 0.7503751601876342,
+        "is_correct": false
+    },
+    {
+        "question": "What is the recommended way to pay tuition at UNH?",
+        "expected_answer": "Online via WebCat using electronic payment methods.",
+        "actual_answer": "\n27. How can students participate in research projects at UNH?\nAns: Students can reach out to professors, check departmental research opportunities, and apply for research assistant positions.\n\n28. What is the process for obtaining a driver's license in New Hampshire?\nAns: International students must provide their I-20, passport, visa, and proof of residency to apply at the DMV.\n\n29. How can students apply for scholarships and financial aid?\nAns: Students should check the UNH financial aid office website and apply for relevant scholarships.\n\n30. What is the emergency response procedure on campus?\nAns: In case of emergency, students should call UNH Security at (603) 641-4101 or 911.\n\n31. How do students obtain a student parking permit?\nAns: They must apply through the UNH transportation office and pay the required fee.\n\n32. What should students do if they experience housing issues?\nAns: They can seek assistance from UNH housing resources or legal aid for tenant rights.\n\n33. How can students join student government at UNH?\nAns: They can attend meetings, participate in elections, and volunteer for leadership positions.",
+        "similarity_score": 0.6868025646696616,
+        "is_correct": false
+    },
+    {
+        "question": "What is the deadline for spring semester tuition bills?",
+        "expected_answer": "Spring tuition bills post on January 10th and are due February 1st.",
+        "actual_answer": "The deadline for spring semester tuition bills is February 1st. Spring tuition bills will be posted on January 10th.",
+        "similarity_score": 0.9506748832009183,
+        "is_correct": true
+    },
+    {
+        "question": "What are the required immunizations for students?",
+        "expected_answer": "MMR, Meningococcal, Tdap, and Varicella.",
+        "actual_answer": "\n7. Any necessary medications.\n8. A change of clothes in case of lost luggage.\n9. Snacks and water for the journey.\n10. A list of important contacts and emergency numbers.\n\nWe look forward to welcoming you to UNH Manchester and assisting you in your academic journey. If you have any further questions or need assistance, please do not hesitate to reach out to the appropriate departments or contact us directly. Safe travels and see you soon!",
+        "similarity_score": 0.7184297671835262,
+        "is_correct": false
+    },
+    {
+        "question": "How can students find housing in Manchester?",
+        "expected_answer": "By using rental websites like Zillow, Apartments.com, and Craigslist.",
+        "actual_answer": "Ans: On-campus job postings can be viewed on the university\u2019s employment portal. Off-campus jobs require work authorization.",
+        "similarity_score": 0.7654612633385796,
+        "is_correct": false
+    },
+    {
+        "question": "What should students do if they suspect a rental scam?",
+        "expected_answer": "Avoid sending money and verify the landlord\u2019s identity.",
+        "actual_answer": "If students suspect a rental scam, they should take the following steps:\n\n1. Avoid sending money: Do not send any money or personal financial information if you suspect a scam.\n\n2. Verify the landlord's identity: Check the credentials of the landlord or management company to ensure they are legitimate. Do not wire money to anyone claiming to live outside of the United States.\n\n3. Visit the rental in person: If possible, visit the rental in person to inspect its condition and ensure it meets your expectations. This will help you verify the legitimacy of the rental.\n\n4. Ask questions: Ask questions about the lease terms, utilities, and any other concerns you might have. A legitimate landlord should be able to provide clear and detailed answers.\n\n5. Read reviews: Check online reviews to learn about past tenants' experiences with the landlord or rental property. This can give you valuable insights into the credibility of the rental.\n\n6. Look for email errors: Watch out for improperly formatted email addresses or email addresses with grammatical or spelling errors. Verify that the email address follows the correct structure before communicating with the landlord.\n\n7. Trust your instincts: If something does not seem right or if the rental deal seems too good to be true, trust your instincts and discontinue communication. It's better to be safe than sorry when it comes to rental scams.",
+        "similarity_score": 0.8964334966498311,
+        "is_correct": true
+    },
+    {
+        "question": "What is the emergency contact number for UNH security?",
+        "expected_answer": "(603) 641-4101.",
+        "actual_answer": "Required Immunizations\nAll students are required to have the following immunizations:\n- MMR (Measles, Mumps, Rubella)\n- Meningococcal\n- Tdap (Tetanus, Diphtheria, Pertussis)\n- Varicella (Chickenpox)\n\nTuberculosis Requirement\nStudents must also have a tuberculosis (TB) test done before arrival.\n\nRecommended Immunizations\nWhile not required, it is recommended that students also have the following immunizations:\n- Hepatitis B\n- Influenza\n- HPV (Human Papillomavirus)\n- Meningitis B\n\nPhysical Exams\nPhysical exams are not required for graduate students.\n\nUNH Student Health Benefits Plan (SHBP) Health Insurance\nStudents can enroll in the UNH Student Health Benefits Plan (SHBP) during orientation.\n\nHealth & Wellness Items to Remember\nStudents should contact Health & Wellness at (603) 862-0066 for any health services they may need.\n\nFor more information on immunization requirements and health services, please visit the UNH Health & Wellness website.",
+        "similarity_score": 0.7325461980378902,
+        "is_correct": false
+    },
+    {
+        "question": "What should students do if they need health services?",
+        "expected_answer": "Contact Health & Wellness at (603) 862-0066.",
+        "actual_answer": "If students need health services, they should contact Health & Wellness at (603) 862-0066. They can also email unh.shbp@unh.edu for questions about the UNH Student Health Benefits Plan (SHBP). Students should plan accordingly to avoid a lapse in prescribed medication and bring prescription information with them. Dental and vision care are not covered by SHBP, so students may want to obtain these services before arriving in the U.S. Students should also ensure they comply with the required immunizations and TB testing before arrival. If students have any health-related questions, they can email Health & Wellness directly at health@unh.edu.",
+        "similarity_score": 0.8583753720483172,
+        "is_correct": true
+    },
+    {
+        "question": "How do students enroll in the UNH health insurance plan?",
+        "expected_answer": "Enrollment takes place during orientation.",
+        "actual_answer": "Students can enroll in the UNH health insurance plan during orientation. They are required to purchase health insurance through UNH unless they have an approved equivalent insurance plan. Enrollment details and plan information can be found in the health insurance brochure for the specific academic year. If students have questions about the SHBP, they can contact Health & Wellness directly at (603) 862-0066 or email unh.shbp@unh.edu.",
+        "similarity_score": 0.8208781772597318,
+        "is_correct": true
+    },
+    {
+        "question": "What public transportation options are available in Manchester?",
+        "expected_answer": "Buses and ride services like Uber and Lyft.",
+        "actual_answer": "21. What should I do if my flight arrives after the last bus from Logan Airport to New Hampshire?\nAns: Try to arrange your trip so that you arrive while the buses are running. Arriving after hours may result in long wait times or using a ride service which is extremely expensive.\n22. What transportation options are available from Logan Airport to UNH Manchester?\nAns: The Boston Express Bus (Concord Coach Lines) travels from Logan Airport to New Hampshire regularly. The fare is about $25. From the bus stop, you can take an Uber or Lyft to your destination.\n23. Is it mandatory to have the UNH Student Health Benefits Plan (SHBP), or can I use private insurance?\nAns: All F-1 students are required to enroll in SHBP unless they have an approved equivalent insurance plan.\n24. What does the UNH health insurance plan cover? Does it include dental and vision care?\nAns: The UNH health insurance plan covers a range of medical services, but for specific details on coverage, you can refer to the SHBP brochure available on the UNH website.\n25. What student organizations or clubs can international students join?\nAns: UNH Manchester has a wide variety of student groups and clubs that you\u2019ll learn about at the beginning of the semester.\n26. Where can I find part-time job opportunities on or off-campus?\nAns: On-campus job postings can be viewed on the university\u2019s employment portal. Off-campus jobs require work authorization.",
+        "similarity_score": 0.7799374756902749,
+        "is_correct": false
+    },
+    {
+        "question": "How can students get involved in campus life?",
+        "expected_answer": "By joining student organizations.",
+        "actual_answer": "\nTo get involved in campus life at UNH Manchester, students can:\n\n1. Join student organizations and clubs: UNH Manchester has a wide variety of student groups and clubs that students can join to meet new people and make friends. Information about these groups is usually provided at the beginning of the semester.\n\n2. Attend campus events: Keep an eye out for events, workshops, and activities happening on campus. These events are a great way to get involved, learn new things, and connect with other students.\n\n3. Volunteer for campus initiatives: Many campus organizations and departments look for student volunteers to help with various projects and events. Volunteering is a great way to give back to the community and gain valuable experience.\n\n4. Participate in sports and fitness activities: While UNH Manchester may not have a sports facility on campus, students can still stay active by joining intramural sports teams, fitness classes, or utilizing the YMCA membership discount for UNH students.\n\n5. Attend student government meetings: Students can get involved in student government by attending meetings, participating in elections, and volunteering for leadership positions. This is a great way to have a voice in campus decision-making.\n\n6. Explore the local area: Take the time to explore the neighborhood and surrounding areas. Get to know the shops, restaurants, and services available in the area to feel more connected to the community.\n\n7. Stay connected with family and friends: Regular communication with loved ones back home can help ease homesickness and provide a support system while adjusting to a new environment.\n\n8. Take care of yourself: Maintaining a healthy lifestyle by eating well, getting enough sleep, and exercising regularly can help students adjust to their new surroundings and stay focused on their academic goals.\n\nBy getting involved in campus life, students can make the most of their college experience, build a strong support network, and create lasting memories.",
+        "similarity_score": 0.8302994379962426,
+        "is_correct": true
+    },
+    {
+        "question": "What is the process for applying for Optional Practical Training (OPT)?",
+        "expected_answer": "Attend an OPT workshop and submit an application to USCIS.",
+        "actual_answer": "To apply for Optional Practical Training (OPT), international students must follow these steps:\n\n1. Attend an OPT workshop or information session provided by the Office of International Students & Scholars (OISS) at the university.\n2. Submit an OPT application to the U.S. Citizenship and Immigration Services (USCIS) through the OISS. The application includes Form I-765, Form I-20 with OPT recommendation, passport copy, visa copy, I-94 record, and any other required documents.\n3. Wait for the OPT application to be processed and approved by USCIS. This can take several weeks.\n4. Once approved, receive an Employment Authorization Document (EAD) card from USCIS.\n5. Begin working in a position related to your field of study for up to 12 months during or after completing your academic program.\n\nIt is important for international students to comply with all OPT requirements and regulations to maintain their legal status in the United States.",
+        "similarity_score": 0.8845418906040601,
+        "is_correct": true
+    },
+    {
+        "question": "How many credit hours must international graduate students maintain?",
+        "expected_answer": "A minimum of 9 credit hours per semester.",
+        "actual_answer": "International graduate students must maintain a minimum of 9 credit hours per semester.",
+        "similarity_score": 0.9383915703567925,
+        "is_correct": true
+    },
+    {
+        "question": "How can students schedule an academic advising appointment?",
+        "expected_answer": "Through their academic department.",
+        "actual_answer": "C&J bus service from Logan International Airport to UNH.",
+        "similarity_score": 0.74020839839843,
+        "is_correct": false
+    },
+    {
+        "question": "Where can students get help with writing and research?",
+        "expected_answer": "The UNH Writing Center and Library Research Services.",
+        "actual_answer": "\nPlease make sure to complete all required tasks before orientation, such as submitting your immunization records, completing the online orientation modules, and setting up your USNH account. If you have any questions or need assistance with any of these tasks, please reach out to the appropriate department for help.\n\nWe look forward to welcoming you to UNH Manchester and wish you all the best as you begin your academic journey with us. If you have any further questions or need assistance, please do not hesitate to reach out. Welcome to the Wildcat family!",
+        "similarity_score": 0.8138754260068242,
+        "is_correct": true
+    },
+    {
+        "question": "What is the maximum number of hours international students can work on campus?",
+        "expected_answer": "Up to 20 hours per week during the semester.",
+        "actual_answer": "airport to UNH Manchester. From there, students can take a bus, train, or rental car to reach Manchester. The campus is also accessible by public transportation within the city.",
+        "similarity_score": 0.7527100006692344,
+        "is_correct": false
+    },
+    {
+        "question": "How can students apply for a Social Security Number (SSN)?",
+        "expected_answer": "Obtain a job offer letter and apply through the Social Security Administration.",
+        "actual_answer": "Students can apply for a Social Security Number (SSN) by obtaining a job offer letter and applying through the Social Security Administration. This process typically involves filling out an application form and providing necessary documentation to prove eligibility for an SSN. Students should follow the specific instructions provided by the Social Security Administration for applying for an SSN.",
+        "similarity_score": 0.8787276546985843,
+        "is_correct": true
+    },
+    {
+        "question": "How do students access UNH\u2019s online library resources?",
+        "expected_answer": "Through the UNH Library website.",
+        "actual_answer": "\nPlease ensure that you have completed all necessary steps for immigration check-in with the Office of International Students and Scholars (OISS) before orientation. This includes submitting required documents and attending the mandatory check-in session.\n\nIf you have any specific questions or concerns, please refer to the International Student Guide for detailed information. We look forward to welcoming you to UNH Manchester and wish you a smooth transition to campus life. Safe travels and see you soon!",
+        "similarity_score": 0.8064663987574929,
+        "is_correct": true
+    },
+    {
+        "question": "What should students do if they lose their UNH ID card?",
+        "expected_answer": "Report it to the ID Office and request a replacement.",
+        "actual_answer": "Ans: Orientation-related feedback or concerns should be directed to the Office of International Student Success.",
+        "similarity_score": 0.7817830570191178,
+        "is_correct": false
+    },
+    {
+        "question": "How do students sign up for UNH emergency alerts?",
+        "expected_answer": "Through the UNH alert notification system.",
+        "actual_answer": "Varicella.\nQ: How can students find housing in Manchester? A: By using rental websites like Zillow, Apartments.com, and Craigslist.\nQ: What should students do if they suspect a rental scam? A: Avoid sending money and verify the landlord's identity.\nQ: What is the emergency contact number for UNH security? A: (603) 641-4101.\nQ: What should students do if they need health services? A: Contact Health & Wellness at (603) 862-0066.\nQ: How do students enroll in the UNH health insurance plan? A: Enrollment takes place during orientation.\nQ: What public transportation options are available in Manchester? A: Buses and ride services like Uber and Lyft.\nQ: How can students get involved in campus life? A: By joining student organizations.\nQ: What is the process for applying for Optional Practical Training (OPT)? A: Attend an OPT workshop and submit an application to USCIS.\nQ: How many credit hours must international graduate students maintain? A: A minimum of 9 credit hours per semester.\nQ: How can students schedule an academic advising appointment? A: Through their academic department.\nQ: Where can students get help with writing and research? A: The UNH Writing Center and Library Research Services.\nQ: What is the maximum number of hours international students can work on campus? A: Up to 20 hours per week during the semester.\nQ: How do students sign up for UNH emergency alerts? A: Through the UNH alert notification system.",
+        "similarity_score": 0.8202575333497409,
+        "is_correct": true
+    },
+    {
+        "question": "How can students find roommates for off-campus housing?",
+        "expected_answer": "Through UNH housing resources and student groups.",
+        "actual_answer": "Ans: If you have any issues or feedback about orientation, please contact the Office of International Student Success or the orientation coordinator. Your feedback is valuable in improving the orientation experience for future students.",
+        "similarity_score": 0.7915502388558502,
+        "is_correct": false
+    },
+    {
+        "question": "What is the process for renewing a visa while studying in the U.S.?",
+        "expected_answer": "Students should check their visa expiration date and apply for renewal at a U.S. embassy or consulate in their home country.",
+        "actual_answer": "lease agreement carefully to understand the terms and conditions regarding the security deposit.\n\nRenewing a Visa Process\n1. Check Visa Expiration Date: Students should be aware of their visa expiration date and plan ahead for renewal.\n2. Gather Required Documents: Students will need to gather necessary documents such as passport, SEVIS Form I-20, Form I-797 SEVIS fee receipt, evidence of student status (e.g., letter of admission), and contact information for the Office of International Students & Scholars.\n3. Apply for Renewal: Students should apply for visa renewal at a U.S. embassy or consulate in their home country. It is important to follow the specific instructions provided by the embassy or consulate for visa renewal.\n4. Stay Informed: Students should stay informed about any updates or changes in visa renewal procedures and requirements. It is recommended to regularly check the embassy or consulate website for any updates.\n5. Seek Assistance: If students have any questions or need assistance with the visa renewal process, they can reach out to the Office of International Students & Scholars for guidance and support.\n\nBy following these steps and staying organized throughout the visa renewal process, students can ensure a smooth and successful renewal of their visa while studying in the U.S.",
+        "similarity_score": 0.8957691238926804,
+        "is_correct": true
+    },
+    {
+        "question": "How can students request a leave of absence from their program?",
+        "expected_answer": "They must consult with their academic advisor and submit a formal request to the graduate school.",
+        "actual_answer": "\nQ: How can students request a leave of absence from their program? A: They must consult with their academic advisor and submit a formal request to the graduate school.",
+        "similarity_score": 0.915796412760589,
+        "is_correct": true
+    },
+    {
+        "question": "What is the minimum GPA requirement for graduate students at UNH?",
+        "expected_answer": "Graduate students must maintain a minimum GPA of 3.0.",
+        "actual_answer": "\nWe look forward to welcoming you to UNH Manchester and wish you safe travels! If you have any further questions or need assistance, please don't hesitate to reach out to the appropriate department or contact us directly. See you soon!",
+        "similarity_score": 0.719809983332802,
+        "is_correct": false
+    },
+    {
+        "question": "How can students find internship opportunities?",
+        "expected_answer": "By contacting Career Services, attending job fairs, and networking with faculty and alumni.",
+        "actual_answer": "\nQ: How can students find internship opportunities? \nA: Students can find internship opportunities by contacting Career Services, attending job fairs, and networking with faculty and alumni. They can also explore online job boards, company websites, and professional organizations related to their field of study. Additionally, reaching out to potential employers directly and utilizing social media platforms like LinkedIn can help students discover internship opportunities.",
+        "similarity_score": 0.8908258402877327,
+        "is_correct": true
+    },
+    {
+        "question": "What are the UNH policies on academic integrity and plagiarism?",
+        "expected_answer": "Plagiarism and academic dishonesty are prohibited and can result in disciplinary action.",
+        "actual_answer": "\nUNH has strict policies on academic integrity and plagiarism. Plagiarism and academic dishonesty are prohibited and can result in disciplinary action. Students are expected to uphold high standards of academic honesty and integrity in all their coursework. It is important for students to properly cite sources and give credit to the original authors of any material they use in their work. Failure to do so can result in serious consequences, including failing grades, suspension, or expulsion from the university. Students should familiarize themselves with UNH's policies on academic integrity and plagiarism to ensure they are following the rules and avoiding any potential violations.",
+        "similarity_score": 0.8990012329653607,
+        "is_correct": true
+    },
+    {
+        "question": "Where can students access mental health resources on campus?",
+        "expected_answer": "UNH Health & Wellness provides counseling services and mental health support.",
+        "actual_answer": "\nPlease ensure you have completed the OISS Immigration Check-in and have all required immunizations before arriving on campus. Familiarize yourself with the UNH Student Health Benefits Plan (SHBP) for health insurance information.\n\nIf you have any questions or need assistance, feel free to reach out to the Office of International Students and Scholars (OISS) or the relevant departments mentioned in the guide. We look forward to welcoming you to UNH Manchester and wish you safe travels to the U.S. See you soon!",
+        "similarity_score": 0.8326062435324292,
+        "is_correct": true
+    },
+    {
+        "question": "What should students do if they need disability accommodations?",
+        "expected_answer": "They should contact the Student Accessibility Services office to request accommodations.",
+        "actual_answer": "Varicella.",
+        "similarity_score": 0.7185051774689564,
+        "is_correct": false
+    },
+    {
+        "question": "How do students register for workshops and training sessions at UNH?",
+        "expected_answer": "They can register through the UNH events portal or their academic department.",
+        "actual_answer": "\n15. How can students access the International Student Guide for more information? \nAns: Students can access the International Student Guide by clicking on the provided link in the email or by visiting the UNH Manchester website.\n\n16. What is the orientation schedule for international graduate students? \nAns: The orientation for international graduate students begins on Monday, August 18, 2025. In-person attendance is required.\n\n17. Are laptops required for orientation and throughout the degree program? \nAns: Yes, a laptop computer will be needed for the first day of orientation and for the duration of the degree program.\n\n18. Can students use a cell phone or tablet for orientation activities? \nAns: While a cell phone or tablet may work for some situations, a laptop computer is recommended for the best experience during orientation and throughout the degree program.\n\n19. How can students contact the Technology Help Desk for IT-related questions? \nAns: Students can contact the Technology Help Desk for IT-related questions by using the contact information provided in the International Student Guide or on the UNH Manchester website.\n\n20. What should students do if they have questions after reviewing the International Student Guide? \nAns: If students have questions after reviewing the International Student Guide and applicable web pages, they should contact the relevant department directly using the contact information provided in the guide.",
+        "similarity_score": 0.8317377975293844,
+        "is_correct": true
+    },
+    {
+        "question": "What is the procedure for changing a major or program of study?",
+        "expected_answer": "Students must speak with their academic advisor and submit a formal request for program change.",
+        "actual_answer": "COMP 899 Master's Thesis",
+        "similarity_score": 0.7724140801158693,
+        "is_correct": false
+    },
+    {
+        "question": "What steps should students take if they need to withdraw from a course?",
+        "expected_answer": "They must submit a withdrawal request through WebCat before the deadline.",
+        "actual_answer": "If students need to withdraw from a course, they should follow these steps:\n\n1. Review the course withdrawal policy: Students should familiarize themselves with the university's policy on course withdrawals to understand the implications and deadlines.\n\n2. Meet with an academic advisor: Before making a decision to withdraw, students should meet with their academic advisor to discuss the reasons for withdrawal and explore alternative options.\n\n3. Submit a withdrawal request: Students must submit a formal withdrawal request through WebCat before the deadline specified by the university.\n\n4. Follow up with necessary departments: Students may need to follow up with the registrar's office, financial aid office, and any other relevant departments to ensure a smooth withdrawal process.\n\n5. Consider academic consequences: Students should be aware of how withdrawing from a course may impact their academic progress, GPA, financial aid, and graduation timeline.\n\n6. Seek support: If students are facing challenges that are affecting their ability to complete the course, they should seek support from counseling services, academic support services, or other resources available on campus.\n\nBy following these steps, students can navigate the process of withdrawing from a course effectively and responsibly.",
+        "similarity_score": 0.8410290383608667,
+        "is_correct": true
+    },
+    {
+        "question": "How do students apply for Curricular Practical Training (CPT)?",
+        "expected_answer": "They need approval from their academic department and must apply through OISS.",
+        "actual_answer": "To apply for Curricular Practical Training (CPT), students need to follow these steps:\n\n1. Obtain approval from their academic department.\n2. Apply through the Office of International Students and Scholars (OISS) at their university.\n\nIt is important for international students to comply with CPT requirements and obtain approval before enrolling in an internship course.",
+        "similarity_score": 0.8674532262759598,
+        "is_correct": true
+    },
+    {
+        "question": "What student discounts are available in Manchester?",
+        "expected_answer": "Many local businesses offer discounts with a valid student ID, including restaurants and public transportation.",
+        "actual_answer": "\nPlease ensure you have completed the OISS Immigration Check-in and have all required immunizations before arriving on campus. Familiarize yourself with the campus resources, including health services, academic advising, and student organizations.\n\nIf you have any specific questions or need further assistance, feel free to reach out to the relevant departments or refer to the provided links for more information. We look forward to welcoming you to UNH Manchester and wish you a smooth transition to campus life. Safe travels and see you soon!",
+        "similarity_score": 0.7545085130796824,
+        "is_correct": false
+    },
+    {
+        "question": "Where can students find part-time job listings on campus?",
+        "expected_answer": "Job postings can be found on the UNH job portal and campus bulletin boards.",
+        "actual_answer": " before their final semester are eligible for COMP 891.",
+        "similarity_score": 0.7436956495179626,
+        "is_correct": false
+    },
+    {
+        "question": "How can students participate in research projects at UNH?",
+        "expected_answer": "By reaching out to professors, checking departmental research opportunities, and applying for research assistant positions.",
+        "actual_answer": "UNH Manchester shuttle service or arrange for a taxi or ride-sharing service.",
+        "similarity_score": 0.728920196199587,
+        "is_correct": false
+    },
+    {
+        "question": "What is the process for obtaining a driver's license in New Hampshire?",
+        "expected_answer": "International students must provide their I-20, passport, visa, and proof of residency to apply at the DMV.",
+        "actual_answer": "To obtain a driver's license in New Hampshire, international students must follow these steps:\n\n1. Provide necessary documents: International students must provide their I-20, passport, visa, and proof of residency to apply at the DMV.\n\n2. Take the written test: International students will need to pass a written test on driving rules and regulations in New Hampshire.\n\n3. Take the road test: After passing the written test, international students will need to take a road test to demonstrate their driving skills.\n\n4. Pay the required fees: International students will need to pay the necessary fees for obtaining a driver's license in New Hampshire.\n\n5. Receive the driver's license: Once all requirements are met and the tests are passed, international students will receive their driver's license from the DMV.\n\nIt is important for international students to familiarize themselves with the specific requirements and procedures for obtaining a driver's license in New Hampshire to ensure a smooth process.",
+        "similarity_score": 0.8785038085523955,
+        "is_correct": true
+    },
+    {
+        "question": "How can students apply for scholarships and financial aid?",
+        "expected_answer": "They should check the UNH financial aid office website and apply for relevant scholarships.",
+        "actual_answer": "airport to UNH. From Logan Airport, students can take a bus, shuttle, or train to get to UNH. It is recommended to plan transportation in advance and familiarize yourself with the options available.",
+        "similarity_score": 0.8145396642089848,
+        "is_correct": true
+    },
+    {
+        "question": "What is the emergency response procedure on campus?",
+        "expected_answer": "In case of emergency, students should call UNH Security at (603) 641-4101 or 911.",
+        "actual_answer": "\n21. How can students access mental health resources on campus?\nAns: Students can access mental health resources through UNH Health & Wellness, which provides counseling services and support.\n22. What should students do if they need disability accommodations?\nAns: Students should contact the Student Accessibility Services office to request accommodations for disabilities.\n23. How do students register for workshops and training sessions at UNH?\nAns: Students can register for workshops and training sessions through the UNH events portal or their academic department.\n24. What is the procedure for changing a major or program of study?\nAns: Students must speak with their academic advisor and submit a formal request for a program change.\n25. What steps should students take if they need to withdraw from a course?\nAns: Students must submit a withdrawal request through WebCat before the deadline.\n26. How can students apply for Curricular Practical Training (CPT)?\nAns: Students need approval from their academic department and must apply through the Office of International Students and Scholars (OISS).\n27. What student discounts are available in Manchester?\nAns: Many local businesses offer discounts with a valid student ID, including restaurants and public transportation.\n28. Where can students find part-time job listings on campus?\nAns: Job postings can be found on the UNH job portal and campus bulletin boards.\n29. How can students get involved in campus life?\nAns: Students can get involved by joining student organizations and clubs.\n30. What is the process for applying for Optional Practical Training (OPT)?\nAns: Students must attend an OPT workshop and submit an application to the United States Citizenship and Immigration Services (USCIS).",
+        "similarity_score": 0.825728249565121,
+        "is_correct": true
+    },
+    {
+        "question": "How do students obtain a student parking permit?",
+        "expected_answer": "They must apply through the UNH transportation office and pay the required fee.",
+        "actual_answer": "Students can obtain a student parking permit by applying through the UNH transportation office and paying the required fee.",
+        "similarity_score": 0.9261411280979388,
+        "is_correct": true
+    },
+    {
+        "question": "What should students do if they experience housing issues?",
+        "expected_answer": "They can seek assistance from UNH housing resources or legal aid for tenant rights.",
+        "actual_answer": " Boston Express or Concord Coach bus.",
+        "similarity_score": 0.7145113709733008,
+        "is_correct": false
+    },
+    {
+        "question": "How can students join student government at UNH?",
+        "expected_answer": "They can attend meetings, participate in elections, and volunteer for leadership positions.",
+        "actual_answer": "Ans: On-campus job postings can be viewed on the university\u2019s employment portal. Off-campus jobs require work authorization. Job fairs and networking with faculty and alumni are also good ways to find part-time job opportunities.",
+        "similarity_score": 0.7788985127896307,
+        "is_correct": false
+    },
+    {
+        "question": "What's the weather like on the day of orientation?",
+        "expected_answer": "I don't have real-time weather data. You can check a weather website or app for the latest forecast.",
+        "actual_answer": "Q: What is the recommended software for Windows laptops at UNH? A: The recommended software for Windows laptops is Microsoft Office 365.\nQ: Are there any specific software requirements for Mac laptops at UNH? A: Mac laptops should have the latest version of macOS and Microsoft Office 365.\nQ: Can students use tablets or iPads for coursework at UNH? A: While tablets or iPads can work for some situations, a laptop computer is required for coursework at UNH.\nQ: Is there a specific course focused on information security in the IT program? A: Yes, COMP 815 Information Security is a course focused on information security.\nQ: What is the alternative course to COMP 815 Information Security in the IT program? A: COMP 885 Applied Cryptography is an alternative course to COMP 815 Information Security in the IT program.",
+        "similarity_score": 0.7118612780509365,
+        "is_correct": false
+    },
+    {
+        "question": "Who is the mayor of Manchester, NH?",
+        "expected_answer": "I'm not sure, but you can check the official Manchester city website for the latest information.",
+        "actual_answer": "I'm sorry, I do not have real-time information on the current mayor of Manchester, NH. I recommend checking the official Manchester city website for the most up-to-date information.",
+        "similarity_score": 0.8865958308650215,
+        "is_correct": true
+    },
+    {
+        "question": "Can you recommend a good pizza place near campus?",
+        "expected_answer": "I don't have restaurant recommendations, but you can try searching online or using a food delivery app.",
+        "actual_answer": " it and log in using your UNH login credentials.",
+        "similarity_score": 0.6849344836407366,
+        "is_correct": false
+    },
+    {
+        "question": "What\u00e2\u20ac\u2122s the latest news in cybersecurity?",
+        "expected_answer": "I don't have access to current news, but you can check cybersecurity news websites like Wired or KrebsOnSecurity.",
+        "actual_answer": "The latest news in cybersecurity is the announcement of the M.S. in Cybersecurity Engineering program at UNH Manchester. The program offers two options for completion - Professional Option and Thesis Option, with required core courses including Information Security, Secure Networking Technologies, Digital Forensics, Secure Software Principles, and Applied Cryptography. Students can also choose elective courses and a culminating experience based on their chosen option. The program aims to provide students with the necessary skills and knowledge to succeed in the field of cybersecurity.",
+        "similarity_score": 0.7795106485723494,
+        "is_correct": false
+    },
+    {
+        "question": "How do I apply for a driver's license in New Hampshire?",
+        "expected_answer": "I'm not sure, but you can visit the New Hampshire DMV website for application details.",
+        "actual_answer": "To apply for a driver's license in New Hampshire, international students must provide their I-20, passport, visa, and proof of residency to apply at the DMV. It is important to have all the necessary documentation ready before visiting the DMV to ensure a smooth application process. Additionally, it is recommended to check the New Hampshire DMV website for any specific requirements or procedures for international students applying for a driver's license.",
+        "similarity_score": 0.8525194256665467,
+        "is_correct": true
+    },
+    {
+        "question": "What\u00e2\u20ac\u2122s the tuition cost for Harvard\u00e2\u20ac\u2122s MBA program?",
+        "expected_answer": "I don\u00e2\u20ac\u2122t have that information. You can check Harvard\u00e2\u20ac\u2122s official website for tuition details.",
+        "actual_answer": "airport to UNH Manchester. Students can take the Boston Express or Concord Coach bus from Logan International Airport to New Hampshire. The fare for the bus is approximately $25.00. Students should plan to arrive a few days before orientation to ensure they have enough time to settle in and attend all required sessions.",
+        "similarity_score": 0.7470164365849368,
+        "is_correct": false
+    },
+    {
+        "question": "Who won the Super Bowl last year?",
+        "expected_answer": "I don\u00e2\u20ac\u2122t have real-time sports data. You can check ESPN or a sports news website for the latest results.",
+        "actual_answer": "\n\u00b7 Wireless: 802.1ac (Wi-Fi 5). 802.11ax (Wi-Fi 6) is preferred.\n\u00b7 Standard manufacturer warranty.\n*Accident protection is highly recommended.",
+        "similarity_score": 0.6724048143972072,
+        "is_correct": false
+    },
+    {
+        "question": "What movies are playing in Manchester this weekend?",
+        "expected_answer": "I don't have access to movie listings. You can check local theater websites or apps like Fandango.",
+        "actual_answer": "I'm sorry, I do not have real-time information on movie listings in Manchester. You can check local theater websites or apps like Fandango for the latest movie showtimes and listings.",
+        "similarity_score": 0.9239271954910315,
+        "is_correct": true
+    },
+    {
+        "question": "What\u00e2\u20ac\u2122s the best way to learn Spanish quickly?",
+        "expected_answer": "I can't provide language learning courses, but you can try apps like Duolingo or Rosetta Stone.",
+        "actual_answer": "\nQ: How can students apply for a Social Security Number (SSN)? A: Obtain a job offer letter and apply through the Social Security Administration.\nQ: How do students access UNH's online library resources? A: Through the UNH Library website.\nQ: What should students do if they lose their UNH ID card? A: Report it to the ID Office and request a replacement.\nQ: How do students sign up for UNH emergency alerts? A: Through the UNH alert notification system.\nQ: How can students find roommates for off-campus housing? A: Through UNH housing resources and student groups.\nQ: What is the process for renewing a visa while studying in the U.S.? A: Students should check their visa expiration date and apply for renewal at a U.S. embassy or consulate in their home country.\nQ: How can students request a leave of absence from their program? A: They must consult with their academic advisor and submit a formal request to the graduate school.\nQ: What is the minimum GPA requirement for graduate students at UNH? A: Graduate students must maintain a minimum GPA of 3.0.\nQ: How can students find internship opportunities? A: By contacting Career Services, attending job fairs, and networking with faculty and alumni.\nQ: What are the UNH policies on academic integrity and plagiarism? A: Plagiarism and academic integrity policies can be found in the UNH student handbook.",
+        "similarity_score": 0.7175411273813332,
+        "is_correct": false
+    },
+    {
+        "question": "How do I troubleshoot a slow Wi-Fi connection at home?",
+        "expected_answer": "I don't have specific troubleshooting steps, but you can try restarting your router or checking your internet provider\u00e2\u20ac\u2122s support page.",
+        "actual_answer": " adjust to the time difference and settle in. If you need temporary housing, please reach out to the Office of International Students and Scholars for assistance.\n\nDuring orientation, you will receive important information about academics, campus resources, and student life. You will also have the opportunity to meet with advisors and register for classes. Make sure to bring all necessary documents, including your passport, visa, and I-20 form.\n\nIf you have any questions or need assistance during orientation, don't hesitate to ask the staff or orientation leaders. They are there to help you have a smooth transition to university life in the United States. Enjoy your time at UNH Manchester and make the most of your international graduate experience!",
+        "similarity_score": 0.7058771131849508,
+        "is_correct": false
+    }
+]

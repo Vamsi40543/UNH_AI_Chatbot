@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Can I bring my own lunch to campus, and are there microwaves?",
+        "expected_answer": "Yes, students can bring their own lunch. Microwaves are available on all floors of the UNH Manchester building.",
+        "retrieval_context": [
+            "Ans: Yes, you can bring your own lunch. Microwaves are available on all floors of the building."
+        ]
+    },
+    {
+        "question": "Does UNH Manchester have a gym?",
+        "expected_answer": "No, but students can get discounted memberships at the YMCA.",
+        "retrieval_context": [
+            "Ans: UNH Manchester does not have a sports facility or a gym. The YMCA offers a membership discount to UNH students (https://manchester.unh.edu/student-experience/wildcats-at-the-ymca)."
+        ]
+    },
+    {
+        "question": "How do I connect to Wi-Fi on campus?",
+        "expected_answer": "Connect to the “eduroam” network using your UNH credentials.",
+        "retrieval_context": [
+            "Ans: To access the university Wi-Fi, turn on your Wi-Fi and look for the network named 'eduroam'. Click on it and log in using your UNH login credentials."
+        ]
+    },
+    {
+        "question": "Is student health insurance mandatory?",
+        "expected_answer": "Yes, all F-1 international students must enroll in UNH’s Student Health Benefits Plan (SHBP).",
+        "retrieval_context": [
+            "UNH policy requires all F-1 students to purchase health insurance through UNH. Medical care is very expensive in the United States, and this requirement is for your own protection.",
+            "More information: https://www.unh.edu/health/student-health-insurance"
+        ]
+    },
+    {
+        "question": "What are the transportation options from Logan Airport to UNH Manchester?",
+        "expected_answer": "Boston Express (Concord Coach Lines) travels regularly to Manchester. The fare is about $25.",
+        "retrieval_context": [
+            "Ans: The Boston Express Bus (Concord Coach Lines) travels from Logan Airport to New Hampshire regularly. The fare is about $25. From the bus stop, you can take an Uber or Lyft to your destination.",
+            "Bus Info: https://mtabus.org/"
+        ]
+    },
+    {
+        "question": "When does orientation begin?",
+        "expected_answer": "Orientation begins on Monday, August 18, 2025, at 12:30 PM EST.",
+        "retrieval_context": [
+            "Orientation is a crucial part of your transition to our university. It begins on Monday, August 18, 2025, at 12:30pm EST, and ends on Friday, August 22, 2025."
+        ]
+    },
+    {
+        "question": "Is orientation in person or virtual?",
+        "expected_answer": "Orientation is in person. Attendance is mandatory.",
+        "retrieval_context": [
+            "Ans: In-person attendance is mandatory for orientation. You must plan your travel accordingly to attend orientation beginning on August 18, 2025."
+        ]
+    },
+    {
+        "question": "Where can I find faculty information for the MS in Cybersecurity Engineering program?",
+        "expected_answer": "Go to https://manchester.unh.edu/program/ms/cybersecurity-engineering, scroll down to “Explore Program Details,” and click on “Faculty Directory.”",
+        "retrieval_context": [
+            "Faculty for Cybersecurity: https://manchester.unh.edu/program/ms/cybersecurity-engineering — Scroll down to Explore Program Details → click on Faculty Directory"
+        ]
+    },
+    {
+        "question": "Does UNH Manchester provide on-campus housing?",
+        "expected_answer": "No. Students typically rent apartments near campus or along bus routes.",
+        "retrieval_context": [
+            "UNH Manchester students typically rent apartments within walking distance of campus or near a bus route, as on-campus housing is not available."
+        ]
+    },
+    {
+        "question": "How are you doing today, chatbot?",
+        "expected_answer": "I'm well and ready to assist—what can I do for you?",
+        "retrieval_context": [
+            "This is a general conversational greeting directed to the chatbot. It does not require specific retrieval from university documents."
+        ]
+    },
+    {
+        "question": "Thank you!",
+        "expected_answer": "You're welcome! Let me know if you have any more questions.",
+        "retrieval_context": [
+            "This is a polite closing or appreciation phrase and does not require specific retrieval."
+        ]
+    },
+    {
+        "question": "Can you help me with course registration?",
+        "expected_answer": "Yes! For Cybersecurity and IT programs, the department usually registers students before orientation. You can check your UNH email for updates.",
+        "retrieval_context": [
+            "Students in the Cybersecurity Engineering and IT degree programs are usually registered for their first semester classes by their department shortly before orientation."
+        ]
+    },
+    {
+        "question": "What should I bring for the first day of orientation?",
+        "expected_answer": "You must bring a laptop computer. Cell phones or tablets may not be sufficient.",
+        "retrieval_context": [
+            "A laptop computer will be needed for the first day of orientation and for the duration of your degree program, a cell phone or a tablet/iPad will work for many situations, but not everything."
+        ]
+    },
+    {
+        "question": "Can I visit campus before orientation?",
+        "expected_answer": "No, students are asked not to visit campus before the designated orientation time on August 18, 2025.",
+        "retrieval_context": [
+            "We kindly ask students to refrain from visiting campus before the designated orientation time on Monday, August 18, 2025, as we are unable to accommodate drop-in visitors."
+        ]
+    }
+]

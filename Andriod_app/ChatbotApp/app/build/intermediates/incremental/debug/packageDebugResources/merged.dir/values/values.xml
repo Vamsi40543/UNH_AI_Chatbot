@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ByteCat Chatbot</string>
+    <style name="Theme.Chatbot" parent="Theme.Material3.DayNight">
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>

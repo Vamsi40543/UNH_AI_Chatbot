@@ -1,0 +1,42 @@
+[
+    {
+      "question": "What's the weather like on the day of orientation?",
+      "answer": "I don't have real-time weather data. You can check a weather website or app for the latest forecast."
+    },
+    {
+      "question": "Who is the mayor of Manchester, NH?",
+      "answer": "I'm not sure, but you can check the official Manchester city website for the latest information."
+    },
+    {
+      "question": "Can you recommend a good pizza place near campus?",
+      "answer": "I don't have restaurant recommendations, but you can try searching online or using a food delivery app."
+    },
+    {
+      "question": "What’s the latest news in cybersecurity?",
+      "answer": "I don't have access to current news, but you can check cybersecurity news websites like Wired or KrebsOnSecurity."
+    },
+    {
+      "question": "How do I apply for a driver's license in New Hampshire?",
+      "answer": "I'm not sure, but you can visit the New Hampshire DMV website for application details."
+    },
+    {
+      "question": "What’s the tuition cost for Harvard’s MBA program?",
+      "answer": "I don’t have that information. You can check Harvard’s official website for tuition details."
+    },
+    {
+      "question": "Who won the Super Bowl last year?",
+      "answer": "I don’t have real-time sports data. You can check ESPN or a sports news website for the latest results."
+    },
+    {
+      "question": "What movies are playing in Manchester this weekend?",
+      "answer": "I don't have access to movie listings. You can check local theater websites or apps like Fandango."
+    },
+    {
+      "question": "What’s the best way to learn Spanish quickly?",
+      "answer": "I can't provide language learning courses, but you can try apps like Duolingo or Rosetta Stone."
+    },
+    {
+      "question": "How do I troubleshoot a slow Wi-Fi connection at home?",
+      "answer": "I don't have specific troubleshooting steps, but you can try restarting your router or checking your internet provider’s support page."
+    }
+  ]
